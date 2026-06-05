@@ -33,7 +33,7 @@
 > 매월 중간 점검일에 업데이트합니다.
 
 <div align="left">
-  <img src="./challenges/may_2026.svg" />
+  <img src="./challenges/may-2026.svg" />
   &nbsp;&nbsp;
   <img src="./challenges/jun-2026.svg" />
 </div>
