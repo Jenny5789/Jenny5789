@@ -4,7 +4,7 @@
       <img src="https://github.com/Jenny5789.png" width="72" height="72" style="border-radius:50%" />
     </td>
     <td valign="middle">
-      <h3>최이재 | Jenny Choi</h3>
+      <h2>최이재 | Jenny Choi</h2>
       <img src="https://img.shields.io/badge/📊_Data_Analysis-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🌱_Growing-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🔥_Daily_Commit-1f2328?style=flat-square" />
@@ -32,7 +32,7 @@
 
 > 매월 중간 점검일에 업데이트합니다.
 
-<div align="center">
+<div align="left">
   <img src="./challenges/may-2025.svg" />
   &nbsp;&nbsp;
   <img src="./challenges/jun-2025.svg" />
@@ -50,14 +50,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jenny5789&theme=tokyonight&hide_border=true&locale=ko&date_format=j%20M%5B%20Y%5D" height="150" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jenny5789&theme=tokyo-night&hide_border=true" height="150" />
-</div>
+<img src="https://streak-stats.demolab.com?user=Jenny5789&theme=tokyonight&hide_border=true&locale=ko&date_format=j%20M%5B%20Y%5D" width="420" />
 
 <br>
 
-<div align="center">
-  <p>🌱 Keep Learning, Keep Growing</p>
-</div>
+🌱 Keep Learning, Keep Growing
