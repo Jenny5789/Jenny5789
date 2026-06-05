@@ -4,7 +4,7 @@
       <img src="https://github.com/Jenny5789.png" width="72" height="72" style="border-radius:50%" />
     </td>
     <td valign="middle">
-      <h2>최이재 | Jenny Choi</h2>
+      <h3>최이재 | Jenny Choi</h3>
       <img src="https://img.shields.io/badge/📊_Data_Analysis-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🌱_Growing-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🔥_Daily_Commit-1f2328?style=flat-square" />
@@ -32,11 +32,9 @@
 
 > 매월 중간 점검일에 업데이트합니다.
 
-<div align="left">
-  <img src="./challenges/may-2026.svg" />
-  &nbsp;&nbsp;
-  <img src="./challenges/jun-2026.svg" />
-</div>
+![](https://img.shields.io/badge/MAY_2026_✅-236b35?style=flat-square)![](https://img.shields.io/badge/Daily_Coding_Test-236b35?style=flat-square)![](https://img.shields.io/badge/96.8%25_Complete-236b35?style=flat-square)
+
+![](https://img.shields.io/badge/JUN_2026_🔥-4a4190?style=flat-square)![](https://img.shields.io/badge/NumPy_&_Pandas-4a4190?style=flat-square)![](https://img.shields.io/badge/In_Progress-4a4190?style=flat-square)
 
 ---
 
