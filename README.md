@@ -40,6 +40,7 @@
 | [🧩 DFS Algorithm Maze](https://github.com/Jenny5789/DFS-Algorithm-Maze) | DFS 알고리즘 단계별 시각화 미로 탐색 앱 | Python · Flet · Stack ADT |
 | [🧮 공학용 계산기](https://github.com/Jenny5789/engineering_calculator) | CASIO 참고 공학용 계산기 앱 | Python · Flet · math |
 | [🌐 LINGO BRIDGE](https://github.com/Jenny5789/dev-logs/tree/main/translator) | 다국어 지원 웹 번역 앱 | HTML · JS · MyMemory API |
+| [📚 Student Manager](https://github.com/Jenny5789/student_manager) | 학생 성적 관리 데스크탑 앱 | Python · PyQt5 · SQLite |
 | [🎞️ AI Photo Studio](https://photo-ai-mkzy.onrender.com) | AI 얼굴 합성 웹 서비스 | Python · Flask · Replicate API |
 
 ---
