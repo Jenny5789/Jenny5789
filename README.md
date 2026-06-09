@@ -37,6 +37,7 @@
 ### 🗂 Projects
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [🍊 Card Quiz](https://github.com/Jenny5789/card_quiz) | 플래시카드 학습 앱 · 라인편집기 응용 | Flutter · Dart · SharedPreferences |
 | [🧩 DFS Algorithm Maze](https://github.com/Jenny5789/DFS-Algorithm-Maze) | DFS 알고리즘 단계별 시각화 미로 탐색 앱 | Python · Flet · Stack ADT |
 | [🧮 공학용 계산기](https://github.com/Jenny5789/engineering_calculator) | CASIO 참고 공학용 계산기 앱 | Python · Flet · math |
 | [🌐 LINGO BRIDGE](https://github.com/Jenny5789/dev-logs/tree/main/translator) | 다국어 지원 웹 번역 앱 | HTML · JS · MyMemory API |
