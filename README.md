@@ -5,7 +5,6 @@
     </td>
     <td valign="middle">
       <h3>최이재 | Jenny Choi</h3>
-      <img src="https://img.shields.io/badge/📊_Data_Analysis-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🌱_Growing-1f2328?style=flat-square" />
       <img src="https://img.shields.io/badge/🔥_Daily_Commit-1f2328?style=flat-square" />
     </td>
