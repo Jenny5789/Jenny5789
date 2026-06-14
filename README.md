@@ -26,10 +26,9 @@
 ---
 
 ### 💡 Self-Challenges
-> 매월 중간 점검일에 업데이트합니다.<br>
 
 ![](https://img.shields.io/badge/JUN_2026_🔥-4a4190?style=flat-square)![](https://img.shields.io/badge/NumPy_&_Pandas-4a4190?style=flat-square)![](https://img.shields.io/badge/In_Progress-4a4190?style=flat-square)<br>
-![](https://img.shields.io/badge/MAY_2026_✅-236b35?style=flat-square)![](https://img.shields.io/badge/Daily_Coding_Test-236b35?style=flat-square)![](https://img.shields.io/badge/96.8%25_Completed-236b35?style=flat-square) <br>
+![](https://img.shields.io/badge/MAY_2026_✅-236b35?style=flat-square)![](https://img.shields.io/badge/Daily_Coding_Test-236b35?style=flat-square)<br>
 
 ---
 
@@ -48,6 +47,7 @@
 ### 📊 Data Analysis
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [🌊 한강 수질 오염 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경정보시스템 데이터 기반 EDA 및 Tableau 대시보드 구축 (🔄 진행중) | Python · Pandas · Matplotlib · Seaborn · Tableau |
 | [🌫️ 서울 대기질 분석](https://github.com/Jenny5789/dev-logs/tree/main/air-analysis) | AirKorea 데이터 기반 시계열 분석 및 시각화 | Python · Pandas · Matplotlib |
 
 ---
