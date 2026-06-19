@@ -47,7 +47,7 @@
 ### 📊 Data Analysis
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [🌊 한강 수질 오염 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경정보시스템 데이터 기반 EDA 및 Tableau 대시보드 구축 (🔄 진행중) | Python · Pandas · Matplotlib · Seaborn · Tableau |
+| [🌊 한강 수질 오염 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경정보시스템 데이터 기반 EDA 및 Tableau 대시보드 구축 | Python · Pandas · Matplotlib · Streamlit |
 | [🌫️ 서울 대기질 분석](https://github.com/Jenny5789/dev-logs/tree/main/air-analysis) | AirKorea 데이터 기반 시계열 분석 및 시각화 | Python · Pandas · Matplotlib |
 
 ---
