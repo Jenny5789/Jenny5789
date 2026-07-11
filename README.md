@@ -25,12 +25,7 @@
 
 ---
 
-### 💡 Self-Challenges
 
-![](https://img.shields.io/badge/JUN_2026_🔥-4a4190?style=flat-square)![](https://img.shields.io/badge/NumPy_&_Pandas-4a4190?style=flat-square)![](https://img.shields.io/badge/In_Progress-4a4190?style=flat-square)<br>
-![](https://img.shields.io/badge/MAY_2026_✅-236b35?style=flat-square)![](https://img.shields.io/badge/Daily_Coding_Test-236b35?style=flat-square)<br>
-
----
 
 ### 🗂 Projects
 | 프로젝트 | 설명 | 기술 |
@@ -52,7 +47,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=Jenny5789&theme=tokyonight&hide_border=true&locale=ko&date_format=j%20M%5B%20Y%5D" width="420" />
-<br>
+
 🌱 Keep Learning, Keep Growing
