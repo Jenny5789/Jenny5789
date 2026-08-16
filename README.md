@@ -30,6 +30,7 @@
 ### 🗂 Projects
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
+| [🚗 CCTV 불법주정차 탐지](https://github.com/Jenny5789/illegal-parking-detection) | YOLOv8 + DeepSORT 기반 CCTV 불법주정차 자동 탐지 시스템 | Python · YOLOv8 · DeepSORT · Streamlit |
 | [🍊 Card Quiz](https://github.com/Jenny5789/card_quiz) | 플래시카드 학습 앱 · 라인편집기 응용 | Flutter · Dart · SharedPreferences |
 | [🧩 DFS Algorithm Maze](https://github.com/Jenny5789/DFS-Algorithm-Maze) | DFS 알고리즘 단계별 시각화 미로 탐색 앱 | Python · Flet · Stack ADT |
 | [🧮 공학용 계산기](https://github.com/Jenny5789/engineering_calculator) | CASIO 참고 공학용 계산기 앱 | Python · Flet · math |
