@@ -37,22 +37,22 @@
 
 ## 🤝 Team Projects
 
-| 프로젝트 | 한 줄 소개 | 기술 |
-|---|---|---|
-| [MOA](https://github.com/Jenny5789/CGI_MOA) | AI로 인물 사진에 상의를 입혀 보는 서비스 | SAM2 · AnyDoor · FastAPI · React |
-| [산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel) | 서울·제주 산책 코스와 날씨를 한 화면에 | JavaScript · Kakao Map · 기상청 API |
+| 분야 | 프로젝트 | 한 줄 소개 | 기술 |
+|---|---|---|---|
+| CV | [MOA](https://github.com/Jenny5789/CGI_MOA) | AI로 인물 사진에 상의를 입혀 보는 서비스 | SAM2 · AnyDoor · FastAPI · React |
+| Web | [산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel) | 서울·제주 산책 코스와 날씨를 한 화면에 | JavaScript · Kakao Map · 기상청 API |
 
 ---
 
 ## 🗂 Personal Projects
 
-| 분야 | 프로젝트 | 한 줄 소개 |
-|---|---|---|
-| ML | [HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis) | 대회 기록으로 군집·회귀·분류 모델링 |
-| DL | [작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier) | CNN으로 고추·배추·오이 분류 |
-| CV | [CourtVision](https://github.com/Jenny5789/CourtVision) | 테니스 경기 영상으로 이동 경로·히트맵 분석 |
-| Web | [SPORTORY](https://github.com/Jenny5789/SPORTORY) | 테니스 선수 기록·스토리 웹 서비스 |
-| Data | [한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경 데이터 EDA · Streamlit 대시보드 |
+| 분야 | 프로젝트 | 한 줄 소개 | 기술 |
+|---|---|---|---|
+| ML | [HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis) | 대회 기록으로 군집·회귀·분류 모델링 | Pandas · scikit-learn · Matplotlib |
+| DL | [작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier) | CNN으로 고추·배추·오이 분류 | PyTorch · torchvision · Docker |
+| CV | [CourtVision](https://github.com/Jenny5789/CourtVision) | 테니스 경기 영상으로 이동 경로·히트맵 분석 | YOLO11 · OpenCV · FastAPI |
+| Web | [SPORTORY](https://github.com/Jenny5789/SPORTORY) | 테니스 선수 기록·스토리 웹 서비스 | FastAPI · React · PostgreSQL |
+| Data | [한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경 데이터 EDA · Streamlit 대시보드 | Pandas · Plotly · Streamlit |
 
 ---
 
