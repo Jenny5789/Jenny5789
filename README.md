@@ -30,38 +30,138 @@
 
 ## 🤝 Team Projects
 
-| 분야 | 프로젝트 | 한 줄 소개 | 기술 |
-|---|---|---|---|
-| CV | [MOA](https://github.com/Jenny5789/CGI_MOA) | AI로 인물 사진에 상의를 입혀 보는 서비스 | SAM2 · AnyDoor · FastAPI · React |
-| Web | [산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel) | 서울·제주 산책 코스와 날씨를 한 화면에 | JavaScript · Kakao Map · 기상청 API |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="340" height="191" alt="MOA"></a>
+
+### MOA
+
+AI로 내 사진에 상의를 입혀 보는 가상 피팅 웹 서비스
+
+**팀장** · 백엔드와 AI 기능 연결
+
+`SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`
+
+<a href="https://github.com/Jenny5789/CGI_MOA"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.10 · 4인 팀 · Computer Vision</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="340" height="191" alt="산책 ON"></a>
+
+### 산책 ON
+
+서울·제주 산책 코스, 맛집, 7일 날씨, 후기를 한 화면에
+
+**담당** · (추후 입력)
+
+`JavaScript` `Kakao Map API` `기상청 API`
+
+<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.11 · 3인 팀 · Web</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🗂 Personal Projects
 
-| 분야 | 프로젝트 | 한 줄 소개 | 기술 |
-|---|---|---|---|
-| ML | [HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis) | 대회 기록으로 군집·회귀·분류 모델링 | Pandas · scikit-learn · Matplotlib |
-| DL | [작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier) | CNN으로 고추·배추·오이 분류 | PyTorch · torchvision · Docker |
-| CV | [CourtVision](https://github.com/Jenny5789/CourtVision) | 테니스 경기 영상으로 이동 경로·히트맵 분석 | YOLO11 · OpenCV · FastAPI |
-| Web | [SPORTORY](https://github.com/Jenny5789/SPORTORY) | 테니스 선수 기록·스토리 웹 서비스 | FastAPI · React · PostgreSQL |
-| Data | [한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality) | 물환경 데이터 EDA · Streamlit 대시보드 | Pandas · Plotly · Streamlit |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/projects/crop.jpg" width="340" height="191" alt="작물 이미지 분류"></a>
+
+### 작물 이미지 분류
+
+CNN으로 고추·배추·오이 분류
+
+`PyTorch` `torchvision` `Docker`
+
+<a href="https://github.com/Jenny5789/cnn-crop-classifier"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.11 · 개인 · DL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/projects/hyrox.jpg" width="340" height="191" alt="HYROX 기록 분석"></a>
+
+### HYROX 기록 분석
+
+대회 기록으로 군집·회귀·분류 모델링
+
+`Pandas` `scikit-learn` `Matplotlib`
+
+<a href="https://github.com/Jenny5789/hyrox-analysis"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.10 · 개인 · ML</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/CourtVision"><img src="images/projects/courtvision.jpg" width="340" height="191" alt="CourtVision"></a>
+
+### CourtVision
+
+테니스 경기 영상으로 이동 경로·히트맵 분석
+
+`YOLO11` `OpenCV` `FastAPI`
+
+<a href="https://github.com/Jenny5789/CourtVision"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.09 · 개인 · CV</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="340" height="191" alt="SPORTORY"></a>
+
+### SPORTORY
+
+테니스 선수 기록·스토리 웹 서비스
+
+`FastAPI` `React` `PostgreSQL`
+
+<a href="https://github.com/Jenny5789/SPORTORY"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.09 · 개인 · Web</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/projects/hangang.jpg" width="340" height="191" alt="한강 수질 분석"></a>
+
+### 한강 수질 분석
+
+물환경 데이터 EDA · Streamlit 대시보드
+
+`Pandas` `Plotly` `Streamlit`
+
+<a href="https://github.com/Jenny5789/hangang-water-quality"><img align="right" src="images/repo-link.svg" alt="Repo →"></a><sub>2026.06 · 개인 · Data</sub>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Study
 
-> 📌 전체 학습 기록은 **[Total-TIL](https://github.com/Jenny5789/Total-TIL)** 에서 한눈에 볼 수 있어요.
+**AI & Data** &nbsp; [Python](https://github.com/Jenny5789/python) · [Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study) · [Deep Learning](https://github.com/Jenny5789/DL_project) · [Computer Vision](https://github.com/Jenny5789/computer-vision-basics)<br>
+**Development** &nbsp; [Web](https://github.com/Jenny5789/web) · [Java](https://github.com/Jenny5789/java) · [C++](https://github.com/Jenny5789/cpp-study)
 
-| 분야 | 과목 | 내용 |
-|---|---|---|
-| AI · 데이터 | [🐍 Python](https://github.com/Jenny5789/python) | 이론 노트 · 자료구조 구현 · 코딩테스트 풀이 |
-|  | [📊 Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study) | NumPy · Pandas 공식 문서 기반 실습 |
-|  | [🧠 Deep Learning](https://github.com/Jenny5789/DL_project) | 딥러닝·머신러닝 이론과 Docker 실습 |
-|  | [👁️ Computer Vision](https://github.com/Jenny5789/computer-vision-basics) | OpenCV 특징점 매칭 · 객체 인식 |
-| 개발 | [🌐 Web](https://github.com/Jenny5789/web) | HTML · CSS · JavaScript 실습 |
-|  | [☕ Java](https://github.com/Jenny5789/java) | Java 기초 문법 실습 |
-|  | [💻 C++](https://github.com/Jenny5789/cpp-study) | C++ 기초 문법 · 연습문제 |
+📌 전체 학습 기록 → **[Total-TIL](https://github.com/Jenny5789/Total-TIL)**
 
 <details>
 <summary><b>🧩 기초 응용 미니 프로젝트</b></summary>
