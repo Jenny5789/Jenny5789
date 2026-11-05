@@ -74,11 +74,11 @@
 
 ### MOA <a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`
+
 - 가상 피팅 웹 서비스 (상의 착용 미리보기)
 - SAM2 상의 분할 → AnyDoor 착용 합성
 - 팀장 · 백엔드–AI 연동, 비동기 작업 큐, 토큰 인증, DB·API 설계
-
-`SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`
 
 </td>
 <td width="50%" valign="top">
@@ -89,11 +89,11 @@
 
 ### HYROX 기록 분석 <a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Pandas` `scikit-learn` `Matplotlib`
+
 - 대회 기록 9만 건 정형 데이터 ML 분석
 - K-Means 페이스 군집, 후반 기록 회귀 · 완주 등급 분류
 - 시즌 단위 분할, 데이터 누수 점검, 기준선 대비 검증
-
-`Pandas` `scikit-learn` `Matplotlib`
 
 </td>
 </tr>
@@ -111,11 +111,11 @@
 
 ### 작물 이미지 분류 <a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`PyTorch` `torchvision` `Docker`
+
 - 작물 3종(고추·배추·오이) 분류 CNN 설계
 - 언더샘플링, 정규화, 데이터 증강, Early Stopping
 - Conv 블록 깊이 비교 실험, Test Acc 97.2%
-
-`PyTorch` `torchvision` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -126,11 +126,11 @@
 
 ### CourtVision <a href="https://github.com/Jenny5789/CourtVision"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`YOLO11` `OpenCV` `OpenVINO` `FastAPI`
+
 - 테니스 영상 선수 추적 (YOLO11n · BoT-SORT)
 - Homography 코트 좌표 변환, 이동거리 · 속도 · 히트맵
 - INT8 양자화 (모델 68%↓ · 추론 1.7×), 대회 일정 크롤링
-
-`YOLO11` `OpenCV` `OpenVINO` `FastAPI`
 
 </td>
 </tr>
@@ -148,11 +148,11 @@
 
 ### SPORTORY <a href="https://github.com/Jenny5789/SPORTORY"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Selenium` `FastAPI` `React` `PostgreSQL`
+
 - ATP 선수 기록 · Biography 통합 서비스, 1인 풀스택
 - CDP 기반 API 응답 수집, Raw 보존 · 정제 · UPSERT
 - Gemini 번역, 수집 스케줄링, Vercel · Render 배포
-
-`Selenium` `FastAPI` `React` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
@@ -163,11 +163,11 @@
 
 ### CCTV 불법주정차 탐지 <a href="https://github.com/Jenny5789/illegal-parking-detection"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`YOLOv8` `DeepSORT` `Streamlit`
+
 - CCTV 불법주정차 자동 탐지 웹 앱
 - YOLOv8 탐지 + DeepSORT 추적, ROI 기반 정차 판정
 - 가림 · 카메라 흔들림 · ID 스위칭 예외 로그 진단 · 개선
-
-`YOLOv8` `DeepSORT` `Streamlit`
 
 </td>
 </tr>
@@ -185,11 +185,11 @@
 
 ### 산책 ON <a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`JavaScript` `Kakao Map API` `기상청 API`
+
 - 서울 · 제주 산책 코스 · 맛집 조건별 추천
 - 기상청 단기 · 중기예보 통합 7일 예보
 - 카카오맵 경로 표시, 거리 · 소요 시간 계산, 리뷰
-
-`JavaScript` `Kakao Map API` `기상청 API`
 
 </td>
 <td width="50%" valign="top">
@@ -200,11 +200,11 @@
 
 ### 한강 수질 분석 <a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Pandas` `Plotly` `Streamlit`
+
 - 한강 5개 측정소 36개월 수질 EDA · 시계열 분석
 - 수질 등급(Ⅰ~Ⅴ) 기준 지점별 · 계절별 비교
 - 하류 영양염(TN · TP) 누적, 지류(성내천) 최고 오염도 도출
-
-`Pandas` `Plotly` `Streamlit`
 
 </td>
 </tr>
@@ -231,10 +231,10 @@
 
 ### Student Manager <a href="https://github.com/Jenny5789/student_manager"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`PyQt5` `SQLite`
+
 - 학생 · 성적 관리 데스크톱 앱
 - 성적 일괄 저장 트랜잭션 · 롤백
-
-`PyQt5` `SQLite`
 
 </td>
 <td width="50%" valign="top">
@@ -243,10 +243,10 @@
 
 ### To-Do List <a href="https://github.com/Jenny5789/todo_list"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`JavaScript` `localStorage`
+
 - 그룹형 할 일 · 메모 관리 웹 앱
 - localStorage 영속화, 상태 필터
-
-`JavaScript` `localStorage`
 
 </td>
 </tr>
@@ -262,10 +262,10 @@
 
 ### Card Quiz <a href="https://github.com/Jenny5789/card_quiz"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Flutter` `Dart`
+
 - 플래시카드 단어장 학습 앱
 - 줄 편집기 CRUD 응용, 오답 복습
-
-`Flutter` `Dart`
 
 </td>
 <td width="50%" valign="top">
@@ -274,10 +274,10 @@
 
 ### DFS Maze <a href="https://github.com/Jenny5789/DFS-algorithm-maze"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Python` `Flet`
+
 - 스택 ADT 직접 구현
 - DFS 탐색 단계별 시각화
-
-`Python` `Flet`
 
 </td>
 </tr>
@@ -293,10 +293,10 @@
 
 ### Engineering Calculator <a href="https://github.com/Jenny5789/engineering_calculator"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`Python` `Flet`
+
 - 공학용 계산기
 - 수식 전처리, 허용 함수 제한 eval
-
-`Python` `Flet`
 
 </td>
 <td width="50%" valign="top">
@@ -305,10 +305,10 @@
 
 ### 대기오염 분석 <a href="https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis"><img src="images/repo-link.svg" alt="Repo →"></a>
 
+`pandas` `matplotlib`
+
 - 에어코리아 시도별 PM2.5 비교
 - 엑셀 데이터 정제, 전국 평균 대비 시각화
-
-`pandas` `matplotlib`
 
 </td>
 </tr>
