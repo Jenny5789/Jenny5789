@@ -21,10 +21,44 @@
 
 ## 🛠 Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/techstack-dark.svg">
-  <img src="images/techstack-light.svg" width="720" alt="Languages: Python, Java, C++, Dart, JavaScript, HTML5, CSS3 / AI & Machine Learning: PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLO, MediaPipe, Hugging Face / Data Analysis & Collection: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit, Selenium, Playwright, BeautifulSoup / Backend: FastAPI, Flask, Apache Tomcat / Frontend & App: React, Vite, Flutter, PyQt5, Flet / Databases: PostgreSQL, MySQL, SQLite, Supabase, SQLAlchemy / Deployment & Environment: Docker, Linux, Vercel, Render, Cloudflare, Anaconda, Git, GitHub / IDE & Tools: VS Code, Eclipse, Jupyter, Google Colab, Claude, Notion, Vim">
-</picture>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://img.shields.io/badge/Python-1f3a5f?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-1f3a5f?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-1f3a5f?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Dart-1f3a5f?style=flat-square&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/JavaScript-1f3a5f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-1f3a5f?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1f3a5f?style=flat-square&logo=css&logoColor=white" alt="CSS3"></td>
+</tr>
+<tr>
+<td><b>AI & ML</b></td>
+<td><img src="https://img.shields.io/badge/PyTorch-1f3a5f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-1f3a5f?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-1f3a5f?style=flat-square&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/scikit--learn-1f3a5f?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/OpenCV-1f3a5f?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/YOLO-1f3a5f?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/MediaPipe-1f3a5f?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe"> <img src="https://img.shields.io/badge/Hugging_Face-1f3a5f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"></td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td><img src="https://img.shields.io/badge/Pandas-1f3a5f?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-1f3a5f?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-1f3a5f?style=flat-square&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-1f3a5f?style=flat-square&logoColor=white" alt="Seaborn"> <img src="https://img.shields.io/badge/Plotly-1f3a5f?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"> <img src="https://img.shields.io/badge/Streamlit-1f3a5f?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"></td>
+</tr>
+<tr>
+<td><b>Collection</b></td>
+<td><img src="https://img.shields.io/badge/Selenium-1f3a5f?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/Playwright-1f3a5f?style=flat-square&logoColor=white" alt="Playwright"> <img src="https://img.shields.io/badge/BeautifulSoup-1f3a5f?style=flat-square&logoColor=white" alt="BeautifulSoup"></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://img.shields.io/badge/FastAPI-1f3a5f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-1f3a5f?style=flat-square&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/Apache_Tomcat-1f3a5f?style=flat-square&logo=apachetomcat&logoColor=white" alt="Apache Tomcat"></td>
+</tr>
+<tr>
+<td><b>Frontend & App</b></td>
+<td><img src="https://img.shields.io/badge/React-1f3a5f?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vite-1f3a5f?style=flat-square&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Flutter-1f3a5f?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/PyQt5-1f3a5f?style=flat-square&logo=qt&logoColor=white" alt="PyQt5"> <img src="https://img.shields.io/badge/Flet-1f3a5f?style=flat-square&logoColor=white" alt="Flet"></td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td><img src="https://img.shields.io/badge/PostgreSQL-1f3a5f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-1f3a5f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-1f3a5f?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Supabase-1f3a5f?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/SQLAlchemy-1f3a5f?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></td>
+</tr>
+<tr>
+<td><b>Deployment</b></td>
+<td><img src="https://img.shields.io/badge/Docker-1f3a5f?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-1f3a5f?style=flat-square&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Vercel-1f3a5f?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Render-1f3a5f?style=flat-square&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/Cloudflare-1f3a5f?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Anaconda-1f3a5f?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/Git-1f3a5f?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-1f3a5f?style=flat-square&logo=github&logoColor=white" alt="GitHub"></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://img.shields.io/badge/VS_Code-1f3a5f?style=flat-square&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Eclipse-1f3a5f?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse"> <img src="https://img.shields.io/badge/Jupyter-1f3a5f?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Google_Colab-1f3a5f?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"> <img src="https://img.shields.io/badge/Claude-1f3a5f?style=flat-square&logo=claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Notion-1f3a5f?style=flat-square&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Vim-1f3a5f?style=flat-square&logo=vim&logoColor=white" alt="Vim"></td>
+</tr>
+</table>
 
 ---
 
