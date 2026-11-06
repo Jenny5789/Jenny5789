@@ -238,7 +238,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🐍 [Python](https://github.com/Jenny5789/python)**<br><sub>이론 노트 · 자료구조 구현 · 코딩테스트 풀이</sub>
+**🐍 [Python](https://github.com/Jenny5789/python)**<br><sub>이론 노트 · 자료구조 구현 · Flet GUI 앱 · 코딩테스트</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -250,7 +250,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [Deep Learning](https://github.com/Jenny5789/DL_project)**<br><sub>딥러닝 · 머신러닝 이론과 Docker 실습</sub>
+**🧠 [Deep Learning](https://github.com/Jenny5789/DL_project)**<br><sub>딥러닝 · 머신러닝 이론 · Flask · Docker 실습</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -267,7 +267,7 @@
 </td>
 <td width="50%" valign="top">
 
-**☕ [Java](https://github.com/Jenny5789/java)**<br><sub>Java 기초 문법 실습</sub>
+**☕ [Java](https://github.com/Jenny5789/java)**<br><sub>기초 문법 · 클래스와 객체 · 서블릿</sub>
 
 </td>
 </tr>
