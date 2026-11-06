@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td><b>Languages</b></td>
 <td><img src="https://img.shields.io/badge/Python-1f3a5f?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-1f3a5f?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-1f3a5f?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Dart-1f3a5f?style=flat-square&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/JavaScript-1f3a5f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-1f3a5f?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1f3a5f?style=flat-square&logo=css&logoColor=white" alt="CSS3"></td>
@@ -64,23 +64,49 @@
 
 ## 🗂 Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="340" height="191" alt="MOA"></a>
 
-<img src="https://img.shields.io/badge/Image_Generation-1f3a5f?style=flat" alt="Image Generation" align="middle"> &nbsp;<sub>2026.10 · 4인 팀</sub>
+<img src="https://img.shields.io/badge/Image_Generation-1f3a5f?style=flat" alt="Image Generation" align="middle"> &nbsp;<sub>2026.10 · 4인 팀 (팀장)</sub>
 
 ### MOA <a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/repo-link.svg" alt="Repo →"></a>
 
 `SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`
 
+**생성형 AI 기반 서비스 개발 · AI 모델 서빙 및 백엔드 구축**
+
 - 가상 피팅 웹 서비스 (상의 착용 미리보기)
 - SAM2 상의 분할 → AnyDoor 착용 합성
-- 팀장 · 백엔드–AI 연동, 비동기 작업 큐, 토큰 인증, DB·API 설계
+- 백엔드–AI 연동, 비동기 작업 큐, 토큰 인증, DB·API 설계
 
 </td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="340" height="191" alt="SPORTORY"></a>
+
+<img src="https://img.shields.io/badge/Data_Pipeline_%C2%B7_Full--stack-1f3a5f?style=flat" alt="Data Pipeline · Full-stack" align="middle"> &nbsp;<sub>2026.09</sub>
+
+### SPORTORY <a href="https://github.com/Jenny5789/SPORTORY"><img src="images/repo-link.svg" alt="Repo →"></a>
+
+`Selenium` `FastAPI` `React` `PostgreSQL`
+
+**데이터 수집 파이프라인 구축 · 웹 서비스 개발 및 배포**
+
+- ATP 선수 기록 · Biography 통합 서비스, 1인 풀스택
+- CDP 기반 API 응답 수집, Raw 보존 · 정제 · UPSERT
+- Gemini 번역, 수집 스케줄링, Vercel · Render 배포
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/projects/hyrox.jpg" width="340" height="191" alt="HYROX 기록 분석"></a>
@@ -91,18 +117,13 @@
 
 `Pandas` `scikit-learn` `Matplotlib`
 
+**정형 데이터 분석 · 머신러닝 모델링 및 검증**
+
 - 대회 기록 9만 건 정형 데이터 ML 분석
 - K-Means 페이스 군집, 후반 기록 회귀 · 완주 등급 분류
 - 시즌 단위 분할, 데이터 누수 점검, 기준선 대비 검증
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/projects/crop.jpg" width="340" height="191" alt="작물 이미지 분류"></a>
@@ -113,11 +134,20 @@
 
 `PyTorch` `torchvision` `Docker`
 
+**딥러닝 모델 구현 · 학습 및 성능 개선**
+
 - 작물 3종(고추·배추·오이) 분류 CNN 설계
 - 언더샘플링, 정규화, 데이터 증강, Early Stopping
 - Conv 블록 깊이 비교 실험, Test Acc 97.2%
 
 </td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Jenny5789/CourtVision"><img src="images/projects/courtvision.jpg" width="340" height="191" alt="CourtVision"></a>
@@ -128,31 +158,11 @@
 
 `YOLO11` `OpenCV` `OpenVINO` `FastAPI`
 
+**컴퓨터 비전 기반 영상 분석 · 모델 경량화**
+
 - 테니스 영상 선수 추적 (YOLO11n · BoT-SORT)
 - Homography 코트 좌표 변환, 이동거리 · 속도 · 히트맵
 - INT8 양자화 (모델 68%↓ · 추론 1.7×), 대회 일정 크롤링
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="340" height="191" alt="SPORTORY"></a>
-
-<img src="https://img.shields.io/badge/Crawling_%C2%B7_Full--stack-1f3a5f?style=flat" alt="Crawling · Full-stack" align="middle"> &nbsp;<sub>2026.09</sub>
-
-### SPORTORY <a href="https://github.com/Jenny5789/SPORTORY"><img src="images/repo-link.svg" alt="Repo →"></a>
-
-`Selenium` `FastAPI` `React` `PostgreSQL`
-
-- ATP 선수 기록 · Biography 통합 서비스, 1인 풀스택
-- CDP 기반 API 응답 수집, Raw 보존 · 정제 · UPSERT
-- Gemini 번역, 수집 스케줄링, Vercel · Render 배포
 
 </td>
 <td width="50%" valign="top">
@@ -165,6 +175,8 @@
 
 `YOLOv8` `DeepSORT` `Streamlit`
 
+**컴퓨터 비전 기반 객체 탐지·추적 서비스 개발**
+
 - CCTV 불법주정차 자동 탐지 웹 앱
 - YOLOv8 탐지 + DeepSORT 추적, ROI 기반 정차 판정
 - 가림 · 카메라 흔들림 · ID 스위칭 예외 로그 진단 · 개선
@@ -175,23 +187,8 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="340" height="191" alt="산책 ON"></a>
-
-<img src="https://img.shields.io/badge/Web_%C2%B7_Open_API-1f3a5f?style=flat" alt="Web · Open API" align="middle"> &nbsp;<sub>2026.06 · 3인 팀</sub>
-
-### 산책 ON <a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/repo-link.svg" alt="Repo →"></a>
-
-`JavaScript` `Kakao Map API` `기상청 API`
-
-- 서울 · 제주 산책 코스 · 맛집 조건별 추천
-- 기상청 단기 · 중기예보 통합 7일 예보
-- 카카오맵 경로 표시, 거리 · 소요 시간 계산, 리뷰
-
-</td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/projects/hangang.jpg" width="340" height="191" alt="한강 수질 분석"></a>
@@ -202,9 +199,28 @@
 
 `Pandas` `Plotly` `Streamlit`
 
+**공공 데이터 탐색적 분석 · 시각화 대시보드 구현**
+
 - 한강 5개 측정소 36개월 수질 EDA · 시계열 분석
 - 수질 등급(Ⅰ~Ⅴ) 기준 지점별 · 계절별 비교
 - 하류 영양염(TN · TP) 누적, 지류(성내천) 최고 오염도 도출
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="340" height="191" alt="산책 ON"></a>
+
+<img src="https://img.shields.io/badge/Web_%C2%B7_Open_API-1f3a5f?style=flat" alt="Web · Open API" align="middle"> &nbsp;<sub>2026.06 · 3인 팀</sub>
+
+### 산책 ON <a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/repo-link.svg" alt="Repo →"></a>
+
+`JavaScript` `Kakao Map API` `기상청 API`
+
+**Open API 연동 웹 서비스 개발**
+
+- 서울 · 제주 산책 코스 · 맛집 조건별 추천
+- 기상청 단기 · 중기예보 통합 7일 예보
+- 카카오맵 경로 표시, 거리 · 소요 시간 계산, 리뷰
 
 </td>
 </tr>
@@ -214,16 +230,68 @@
 
 ## 📚 Study
 
-**AI & Data** &nbsp; [Python](https://github.com/Jenny5789/python) · [Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study) · [Deep Learning](https://github.com/Jenny5789/DL_project) · [Computer Vision](https://github.com/Jenny5789/computer-vision-basics)<br>
-**Development** &nbsp; [Web](https://github.com/Jenny5789/web) · [Java](https://github.com/Jenny5789/java) · [C++](https://github.com/Jenny5789/cpp-study)
+수업과 교재로 배운 이론을 과목별로 직접 정리하고 실습한 기록입니다.
 
-📌 전체 학습 기록 → **[Total-TIL](https://github.com/Jenny5789/Total-TIL)**
+<a href="https://github.com/Jenny5789/Total-TIL"><img src="https://img.shields.io/badge/Total--TIL-과목별_학습_기록_한눈에_보기_→-1f3a5f?style=for-the-badge&labelColor=0d1b2a" alt="Total-TIL 과목별 학습 기록 한눈에 보기"></a>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🐍 [Python](https://github.com/Jenny5789/python)**<br><sub>이론 노트 · 자료구조 구현 · 코딩테스트 풀이</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study)**<br><sub>NumPy · Pandas 공식 문서 기반 실습</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 [Deep Learning](https://github.com/Jenny5789/DL_project)**<br><sub>딥러닝 · 머신러닝 이론과 Docker 실습</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**👁️ [Computer Vision](https://github.com/Jenny5789/computer-vision-basics)**<br><sub>OpenCV 특징점 매칭 · 객체 인식</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 [Web](https://github.com/Jenny5789/web)**<br><sub>HTML · CSS · JavaScript 실습</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**☕ [Java](https://github.com/Jenny5789/java)**<br><sub>Java 기초 문법 실습</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💻 [C++](https://github.com/Jenny5789/cpp-study)**<br><sub>C++ 기초 문법 · 연습문제</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🐧 [Linux](https://github.com/Jenny5789/Total-TIL/tree/main/Linux)**<br><sub>Linux 기본 명령어 · VI 에디터 실습</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <details>
 <summary><b>🧩 기초 응용 미니 프로젝트</b></summary>
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -254,7 +322,7 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -285,7 +353,7 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
