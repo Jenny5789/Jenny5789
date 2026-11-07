@@ -1,8 +1,12 @@
-**DATA & AI DEVELOPER**
+<div align="center">
 
-# 최이재 | Jenny Choi
+<h1>최이재 | Jenny Choi</h1>
 
-### 🗂 [Projects](#-projects) · 📚 [Study](#-study) · 🧩 [Mini Projects](#mini-projects)
+<p><b>DATA &amp; AI DEVELOPER</b></p>
+
+<h4><a href="#-projects">🗂 Projects</a> · <a href="#-study">📚 Study</a> · <a href="#mini-projects">🧩 Mini Projects</a></h4>
+
+</div>
 
 ---
 
