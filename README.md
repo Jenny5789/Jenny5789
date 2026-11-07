@@ -1,16 +1,6 @@
-<div align="center">
+**DATA & AI DEVELOPER**
 
-<img src="images/header.svg" alt="최이재 | Jenny Choi · Data & AI Developer" width="100%">
-<br>
-
-
-
-
-
-
-</div>
-
----
+# 최이재 | Jenny Choi
 
 ### 🗂 [Projects](#-projects) · 📚 [Study](#-study) · 🧩 [Mini Projects](#mini-projects)
 
