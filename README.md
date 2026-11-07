@@ -84,7 +84,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -136,7 +136,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -162,7 +162,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -188,7 +188,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -214,7 +214,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
@@ -240,7 +240,7 @@
 </tr>
 </table>
 
-<img src="images/hline.svg" width="100%" height="1" alt="">
+<br>
 
 <table width="100%">
 <tr>
