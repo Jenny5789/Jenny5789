@@ -68,7 +68,7 @@
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="100%"></a>
@@ -76,7 +76,7 @@
 `Image Generation`<br>
 `2026.10 · 4인 팀 (팀장)`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [MOA](https://github.com/Jenny5789/CGI_MOA)<br>
 `SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`<br>
@@ -90,11 +90,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="100%"></a>
@@ -102,7 +102,7 @@
 `Data Pipeline · Full-stack`<br>
 `2026.09`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [SPORTORY](https://github.com/Jenny5789/SPORTORY)<br>
 `Selenium` `FastAPI` `React` `PostgreSQL`<br>
@@ -116,11 +116,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/projects/hyrox.jpg" width="100%"></a>
@@ -128,7 +128,7 @@
 `Machine Learning`<br>
 `2026.10`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis)<br>
 `Pandas` `scikit-learn` `Matplotlib`<br>
@@ -142,11 +142,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/projects/crop.jpg" width="100%"></a>
@@ -154,7 +154,7 @@
 `Deep Learning`<br>
 `2026.09`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier)<br>
 `PyTorch` `torchvision` `Docker`<br>
@@ -168,11 +168,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/CourtVision"><img src="images/projects/courtvision.jpg" width="100%"></a>
@@ -180,7 +180,7 @@
 `Computer Vision`<br>
 `2026.09`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [CourtVision](https://github.com/Jenny5789/CourtVision)<br>
 `YOLO11` `OpenCV` `OpenVINO` `FastAPI`<br>
@@ -194,11 +194,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/illegal-parking-detection"><img src="images/projects/parking.jpg" width="100%"></a>
@@ -206,7 +206,7 @@
 `Object Tracking`<br>
 `2026.08`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [CCTV 불법주정차 탐지](https://github.com/Jenny5789/illegal-parking-detection)<br>
 `YOLOv8` `DeepSORT` `Streamlit`<br>
@@ -220,11 +220,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/projects/hangang.jpg" width="100%"></a>
@@ -232,7 +232,7 @@
 `Data Analysis`<br>
 `2026.06`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality)<br>
 `Pandas` `Plotly` `Streamlit`<br>
@@ -246,11 +246,11 @@
 </tr>
 </table>
 
----
+<img src="images/hline.svg" width="100%" height="1" alt="">
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <br>
 <a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="100%"></a>
@@ -258,7 +258,7 @@
 `Web · Open API`<br>
 `2026.06 · 3인 팀`
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## [산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel)<br>
 `JavaScript` `Kakao Map API` `기상청 API`<br>
