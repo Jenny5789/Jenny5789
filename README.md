@@ -99,12 +99,12 @@
 <td width="60%" valign="top">
 
 ## [SPORTORY](https://github.com/Jenny5789/SPORTORY)<br>
-`Selenium` `FastAPI` `React` `PostgreSQL`<br>
+`Selenium` `PostgreSQL` `FastAPI` `React` `Gemini`<br>
 **데이터 수집 파이프라인 구축 · 웹 서비스 개발 및 배포**
 
-- ATP 선수 기록 · Biography 통합 서비스
-- CDP 기반 API 응답 수집, Raw 보존 · 정제 · UPSERT
-- Gemini 번역, 수집 스케줄링, Vercel · Render 배포
+- ATP 선수 기록과 Biography 제공 웹 서비스 (Render, Vercel 배포)
+- Selenium + CDP 응답 수집, 원본 저장 → 정제 → UPSERT
+- 변경된 Biography만 Gemini 번역, Windows 작업 스케줄러 자동 수집
 
 </td>
 </tr>
