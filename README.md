@@ -11,20 +11,21 @@
 ## 🛠 Tech Stack
 
 <table width="100%">
+<tr><td colspan="2"><img src="images/spacer.svg" width="100%" height="1" alt=""></td></tr>
 <tr>
-<td width="50%" valign="top"><b>Languages</b><br><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-2b5a8a?style=flat&logoColor=white" alt="SQL" title="SQL" height="17">&nbsp; <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/8F5FE0" alt="CSS3" title="CSS3" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dart" alt="Dart" title="Dart" height="20">&nbsp;&nbsp;</td>
-<td width="50%" valign="top"><b>AI &amp; ML</b><br><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/6A7BE0" alt="YOLO" title="YOLO" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" title="OpenCV" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/keras" alt="Keras" title="Keras" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" title="MediaPipe" height="20">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Languages</b><br><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-2b5a8a?style=flat&logoColor=white" alt="SQL" title="SQL" height="24">&nbsp; <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/8F5FE0" alt="CSS3" title="CSS3" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dart" alt="Dart" title="Dart" height="28">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>AI &amp; ML</b><br><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/6A7BE0" alt="YOLO" title="YOLO" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" title="OpenCV" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/keras" alt="Keras" title="Keras" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" title="MediaPipe" height="28">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>Data</b><br><img src="https://cdn.simpleicons.org/pandas/7F63C4" alt="Pandas" title="Pandas" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/7589D1" alt="Plotly" title="Plotly" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-2b5a8a?style=flat&logoColor=white" alt="Matplotlib" title="Matplotlib" height="17">&nbsp; <img src="https://img.shields.io/badge/Seaborn-2b5a8a?style=flat&logoColor=white" alt="Seaborn" title="Seaborn" height="17">&nbsp; <img src="https://img.shields.io/badge/BeautifulSoup-2b5a8a?style=flat&logoColor=white" alt="BeautifulSoup" title="BeautifulSoup" height="17">&nbsp; </td>
-<td width="50%" valign="top"><b>Backend &amp; DB</b><br><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/6E7681" alt="Flask" title="Flask" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spring" alt="Spring MVC" title="Spring MVC" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachetomcat" alt="Apache Tomcat" title="Apache Tomcat" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MyBatis-2b5a8a?style=flat&logoColor=white" alt="MyBatis" title="MyBatis" height="17">&nbsp; <img src="https://img.shields.io/badge/Servlet_JSP-2b5a8a?style=flat&logoColor=white" alt="Servlet·JSP" title="Servlet·JSP" height="17">&nbsp; <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" title="SQLAlchemy" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/0F80CC" alt="SQLite" title="SQLite" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="20">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Data</b><br><img src="https://cdn.simpleicons.org/pandas/7F63C4" alt="Pandas" title="Pandas" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/7589D1" alt="Plotly" title="Plotly" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-2b5a8a?style=flat&logoColor=white" alt="Matplotlib" title="Matplotlib" height="24">&nbsp; <img src="https://img.shields.io/badge/Seaborn-2b5a8a?style=flat&logoColor=white" alt="Seaborn" title="Seaborn" height="24">&nbsp; <img src="https://img.shields.io/badge/BeautifulSoup-2b5a8a?style=flat&logoColor=white" alt="BeautifulSoup" title="BeautifulSoup" height="24">&nbsp; </td>
+<td width="50%" valign="top"><b>Backend &amp; DB</b><br><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/6E7681" alt="Flask" title="Flask" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spring" alt="Spring MVC" title="Spring MVC" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachetomcat" alt="Apache Tomcat" title="Apache Tomcat" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MyBatis-2b5a8a?style=flat&logoColor=white" alt="MyBatis" title="MyBatis" height="24">&nbsp; <img src="https://img.shields.io/badge/Servlet_JSP-2b5a8a?style=flat&logoColor=white" alt="Servlet·JSP" title="Servlet·JSP" height="24">&nbsp; <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" title="SQLAlchemy" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/0F80CC" alt="SQLite" title="SQLite" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="28">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>Frontend &amp; App</b><br><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flutter/54C5F8" alt="Flutter" title="Flutter" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/qt" alt="PyQt5" title="PyQt5" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flet-2b5a8a?style=flat&logoColor=white" alt="Flet" title="Flet" height="17">&nbsp; </td>
-<td width="50%" valign="top"><b>Deployment</b><br><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/6E7681" alt="Vercel" title="Vercel" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render" alt="Render" title="Render" height="20">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Frontend &amp; App</b><br><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flutter/54C5F8" alt="Flutter" title="Flutter" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/qt" alt="PyQt5" title="PyQt5" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flet-2b5a8a?style=flat&logoColor=white" alt="Flet" title="Flet" height="24">&nbsp; </td>
+<td width="50%" valign="top"><b>Deployment</b><br><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/6E7681" alt="Vercel" title="Vercel" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render" alt="Render" title="Render" height="28">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td colspan="2" valign="top"><b>Tools</b><br><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/6E7681" alt="GitHub" title="GitHub" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/anaconda" alt="Anaconda" title="Anaconda" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" title="Google Colab" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/6E7681" alt="Notion" title="Notion" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/7B6FD8" alt="Eclipse" title="Eclipse" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/VS_Code-2b5a8a?style=flat&logoColor=white" alt="VS Code" title="VS Code" height="17">&nbsp; <img src="https://img.shields.io/badge/ChatGPT-2b5a8a?style=flat&logoColor=white" alt="ChatGPT" title="ChatGPT" height="17">&nbsp; </td>
+<td colspan="2" valign="top"><b>Tools</b><br><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/6E7681" alt="GitHub" title="GitHub" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/anaconda" alt="Anaconda" title="Anaconda" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" title="Google Colab" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/6E7681" alt="Notion" title="Notion" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/7B6FD8" alt="Eclipse" title="Eclipse" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/VS_Code-2b5a8a?style=flat&logoColor=white" alt="VS Code" title="VS Code" height="24">&nbsp; <img src="https://img.shields.io/badge/ChatGPT-2b5a8a?style=flat&logoColor=white" alt="ChatGPT" title="ChatGPT" height="24">&nbsp; </td>
 </tr>
 </table>
 
@@ -334,17 +335,47 @@
 
 ## 📚 Study
 
-수업과 교재로 배운 이론을 과목별로 정리하고 실습한 기록입니다.
 
-
-| 과목 | 내용 |
-|---|---|
-| <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">&nbsp;&nbsp;&nbsp;**[Python](https://github.com/Jenny5789/python)** | 이론 노트 · 자료구조 구현 · 코딩테스트 |
-| <img src="https://cdn.simpleicons.org/pandas/3F8FD2" width="22" height="22" alt="Data Analysis">&nbsp;&nbsp;&nbsp;**[Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study)** | NumPy · Pandas 공식 문서 기반 실습 |
-| <img src="https://cdn.simpleicons.org/pytorch" width="22" height="22" alt="Deep Learning">&nbsp;&nbsp;&nbsp;**[Deep Learning](https://github.com/Jenny5789/DL_project)** | 딥러닝 · 머신러닝 이론 · Flask · Docker 실습 |
-| <img src="https://cdn.simpleicons.org/opencv" width="22" height="22" alt="Computer Vision">&nbsp;&nbsp;&nbsp;**[Computer Vision](https://github.com/Jenny5789/computer-vision-basics)** | OpenCV 특징점 매칭 · 객체 인식 |
-| <img src="https://cdn.simpleicons.org/html5" width="22" height="22" alt="Web">&nbsp;&nbsp;&nbsp;**[Web](https://github.com/Jenny5789/web)** | HTML · CSS · JavaScript 실습 |
-| <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="22" height="22" alt="Java">&nbsp;&nbsp;&nbsp;**[Java](https://github.com/Jenny5789/java)** | 기초 문법 · 클래스와 객체 · 서블릿 |
-| <img src="https://cdn.simpleicons.org/cplusplus" width="22" height="22" alt="C++">&nbsp;&nbsp;&nbsp;**[C++](https://github.com/Jenny5789/cpp-study)** | C++ 기초 문법 · 연습문제 |
-| <img src="https://cdn.simpleicons.org/linux" width="22" height="22" alt="Linux">&nbsp;&nbsp;&nbsp;**[Linux](https://github.com/Jenny5789/Total-TIL/tree/main/Linux)** | Linux 기본 명령어 · VI 에디터 실습 |
-
+<table width="100%">
+<tr><td colspan="2"><img src="images/spacer.svg" width="100%" height="1" alt=""></td></tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/python" width="26" height="26" alt="Python">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/python">Python</a></b><br>
+이론 노트 · 자료구조 구현 · 코딩테스트
+</td>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/pandas/3F8FD2" width="26" height="26" alt="Data Analysis">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/Data_Analysis_Study">Data Analysis</a></b><br>
+NumPy · Pandas 공식 문서 기반 실습
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/pytorch" width="26" height="26" alt="Deep Learning">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/DL_project">Deep Learning</a></b><br>
+딥러닝 · 머신러닝 이론 · Flask · Docker 실습
+</td>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/opencv" width="26" height="26" alt="Computer Vision">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/computer-vision-basics">Computer Vision</a></b><br>
+OpenCV 특징점 매칭 · 객체 인식
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/html5" width="26" height="26" alt="Web">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/web">Web</a></b><br>
+HTML · CSS · JavaScript 실습
+</td>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="26" height="26" alt="Java">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/java">Java</a></b><br>
+기초 문법 · 클래스와 객체 · 서블릿
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/cplusplus" width="26" height="26" alt="C++">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/cpp-study">C++</a></b><br>
+C++ 기초 문법 · 연습문제
+</td>
+<td width="50%" valign="top">
+<img src="https://cdn.simpleicons.org/linux" width="26" height="26" alt="Linux">&nbsp;&nbsp;<b><a href="https://github.com/Jenny5789/Total-TIL/tree/main/Linux">Linux</a></b><br>
+Linux 기본 명령어 · VI 에디터 실습
+</td>
+</tr>
+</table>
