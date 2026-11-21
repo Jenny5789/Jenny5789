@@ -1,58 +1,30 @@
 <div align="center">
 
-<h1>최이재 | Jenny Choi</h1>
+<h1>최이재 | 데이터·AI 개발자</h1>
 
-<p><b>DATA &amp; AI DEVELOPER</b></p>
-
-<h4><a href="#-projects">🗂 Projects</a> · <a href="#-study">📚 Study</a> · <a href="#mini-projects">🧩 Mini Projects</a></h4>
+<h4><a href="#-projects">🗂 Projects</a> · <a href="#-mini-projects">🧩 Mini Projects</a> · <a href="#-study">📚 Study</a></h4>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-환경공학을 전공하고 환경분석 업무를 하며 반복되는 분석 작업을 데이터와 AI로 효율화하는 일에 관심을 갖게 되었습니다.<br>
-지금은 **한국폴리텍대학 인공지능소프트웨어과**에서 그 방법을 직접 배우고 만들어 가고 있습니다.
-
 ## 🛠 Tech Stack
 
 <table width="100%">
 <tr>
-<td><b>Languages</b></td>
-<td><img src="https://img.shields.io/badge/Python-2b5a8a?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-2b5a8a?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C%2B%2B-2b5a8a?style=flat&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Dart-2b5a8a?style=flat&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/JavaScript-2b5a8a?style=flat&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-2b5a8a?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-2b5a8a?style=flat&logo=css&logoColor=white" alt="CSS3"></td>
+<td width="50%" valign="top"><b>Languages</b><br><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-2b5a8a?style=flat&logoColor=white" alt="SQL" title="SQL" height="17">&nbsp; <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/8F5FE0" alt="CSS3" title="CSS3" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dart" alt="Dart" title="Dart" height="20">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>AI &amp; ML</b><br><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/6A7BE0" alt="YOLO" title="YOLO" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" title="OpenCV" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/keras" alt="Keras" title="Keras" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" title="MediaPipe" height="20">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td><b>AI & ML</b></td>
-<td><img src="https://img.shields.io/badge/PyTorch-2b5a8a?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-2b5a8a?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Keras-2b5a8a?style=flat&logo=keras&logoColor=white" alt="Keras"> <img src="https://img.shields.io/badge/scikit--learn-2b5a8a?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/OpenCV-2b5a8a?style=flat&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/YOLO-2b5a8a?style=flat&logo=ultralytics&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/MediaPipe-2b5a8a?style=flat&logo=mediapipe&logoColor=white" alt="MediaPipe"> <img src="https://img.shields.io/badge/Hugging_Face-2b5a8a?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face"></td>
+<td width="50%" valign="top"><b>Data</b><br><img src="https://cdn.simpleicons.org/pandas/7F63C4" alt="Pandas" title="Pandas" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/7589D1" alt="Plotly" title="Plotly" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-2b5a8a?style=flat&logoColor=white" alt="Matplotlib" title="Matplotlib" height="17">&nbsp; <img src="https://img.shields.io/badge/Seaborn-2b5a8a?style=flat&logoColor=white" alt="Seaborn" title="Seaborn" height="17">&nbsp; <img src="https://img.shields.io/badge/BeautifulSoup-2b5a8a?style=flat&logoColor=white" alt="BeautifulSoup" title="BeautifulSoup" height="17">&nbsp; </td>
+<td width="50%" valign="top"><b>Backend &amp; DB</b><br><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/6E7681" alt="Flask" title="Flask" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spring" alt="Spring MVC" title="Spring MVC" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachetomcat" alt="Apache Tomcat" title="Apache Tomcat" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MyBatis-2b5a8a?style=flat&logoColor=white" alt="MyBatis" title="MyBatis" height="17">&nbsp; <img src="https://img.shields.io/badge/Servlet_JSP-2b5a8a?style=flat&logoColor=white" alt="Servlet·JSP" title="Servlet·JSP" height="17">&nbsp; <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" title="SQLAlchemy" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/0F80CC" alt="SQLite" title="SQLite" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="20">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td><b>Data</b></td>
-<td><img src="https://img.shields.io/badge/Pandas-2b5a8a?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-2b5a8a?style=flat&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-2b5a8a?style=flat&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-2b5a8a?style=flat&logoColor=white" alt="Seaborn"> <img src="https://img.shields.io/badge/Plotly-2b5a8a?style=flat&logo=plotly&logoColor=white" alt="Plotly"> <img src="https://img.shields.io/badge/Streamlit-2b5a8a?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"></td>
+<td width="50%" valign="top"><b>Frontend &amp; App</b><br><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flutter/54C5F8" alt="Flutter" title="Flutter" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/qt" alt="PyQt5" title="PyQt5" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flet-2b5a8a?style=flat&logoColor=white" alt="Flet" title="Flet" height="17">&nbsp; </td>
+<td width="50%" valign="top"><b>Deployment</b><br><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/6E7681" alt="Vercel" title="Vercel" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render" alt="Render" title="Render" height="20">&nbsp;&nbsp;</td>
 </tr>
 <tr>
-<td><b>Collection</b></td>
-<td><img src="https://img.shields.io/badge/Selenium-2b5a8a?style=flat&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/BeautifulSoup-2b5a8a?style=flat&logoColor=white" alt="BeautifulSoup"></td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td><img src="https://img.shields.io/badge/FastAPI-2b5a8a?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-2b5a8a?style=flat&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/Apache_Tomcat-2b5a8a?style=flat&logo=apachetomcat&logoColor=white" alt="Apache Tomcat"></td>
-</tr>
-<tr>
-<td><b>Frontend & App</b></td>
-<td><img src="https://img.shields.io/badge/React-2b5a8a?style=flat&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vite-2b5a8a?style=flat&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Flutter-2b5a8a?style=flat&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/PyQt5-2b5a8a?style=flat&logo=qt&logoColor=white" alt="PyQt5"> <img src="https://img.shields.io/badge/Flet-2b5a8a?style=flat&logoColor=white" alt="Flet"></td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td><img src="https://img.shields.io/badge/PostgreSQL-2b5a8a?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-2b5a8a?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-2b5a8a?style=flat&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Supabase-2b5a8a?style=flat&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/SQLAlchemy-2b5a8a?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></td>
-</tr>
-<tr>
-<td><b>Deployment</b></td>
-<td><img src="https://img.shields.io/badge/Docker-2b5a8a?style=flat&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-2b5a8a?style=flat&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Vercel-2b5a8a?style=flat&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Render-2b5a8a?style=flat&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/Cloudflare-2b5a8a?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Anaconda-2b5a8a?style=flat&logo=anaconda&logoColor=white" alt="Anaconda"> <img src="https://img.shields.io/badge/Git-2b5a8a?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-2b5a8a?style=flat&logo=github&logoColor=white" alt="GitHub"></td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td><img src="https://img.shields.io/badge/VS_Code-2b5a8a?style=flat&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Eclipse-2b5a8a?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse"> <img src="https://img.shields.io/badge/Jupyter-2b5a8a?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Google_Colab-2b5a8a?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab"> <img src="https://img.shields.io/badge/Claude-2b5a8a?style=flat&logo=claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/ChatGPT-2b5a8a?style=flat&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Notion-2b5a8a?style=flat&logo=notion&logoColor=white" alt="Notion"></td>
+<td colspan="2" valign="top"><b>Tools</b><br><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/6E7681" alt="GitHub" title="GitHub" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/anaconda" alt="Anaconda" title="Anaconda" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" title="Google Colab" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/6E7681" alt="Notion" title="Notion" height="20">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/7B6FD8" alt="Eclipse" title="Eclipse" height="20">&nbsp;&nbsp;<img src="https://img.shields.io/badge/VS_Code-2b5a8a?style=flat&logoColor=white" alt="VS Code" title="VS Code" height="17">&nbsp; <img src="https://img.shields.io/badge/ChatGPT-2b5a8a?style=flat&logoColor=white" alt="ChatGPT" title="ChatGPT" height="17">&nbsp; </td>
 </tr>
 </table>
 
@@ -62,209 +34,301 @@
 
 <table width="100%">
 <tr>
-<td width="40%" valign="top">
+<td width="49%" valign="top">
 
-<br>
-<a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="100%"></a>
+<a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="100%" alt="CGI_MOA"></a>
 
-`Image Generation`<br>
-`2026.10 · 4인 팀 (팀장)`
-</td>
-<td width="60%" valign="top">
+**[CGI_MOA](https://github.com/Jenny5789/CGI_MOA)** <sub>&nbsp;Image Generation · 2026.10 · 4인 팀 (팀장)</sub>
 
-## [MOA](https://github.com/Jenny5789/CGI_MOA)<br>
-`SAM2` `AnyDoor` `PyTorch` `FastAPI` `React`<br>
+`SAM2` `AnyDoor` `PyTorch` `FastAPI` `React` 
+
 **생성형 AI 기반 서비스 개발 · AI 모델 서빙 및 백엔드 구축**
 
-- 가상 피팅 웹 서비스 (상의 착용 미리보기)
-- SAM2 상의 분할 → AnyDoor 착용 합성
+- 가상 피팅 웹 서비스: SAM2 상의 분할 → AnyDoor 착용 합성
 - 백엔드–AI 연동, 비동기 작업 큐, 토큰 인증
 
 </td>
-</tr>
-</table>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<br>
+<a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="100%" alt="SPORTORY"></a>
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
+**[SPORTORY](https://github.com/Jenny5789/SPORTORY)** <sub>&nbsp;Data Pipeline · Full-stack · 2026.09</sub>
 
-<br>
-<a href="https://github.com/Jenny5789/SPORTORY"><img src="images/projects/sportory.jpg" width="100%"></a>
+`Selenium` `PostgreSQL` `FastAPI` `React` `Gemini` 
 
-`Data Pipeline · Full-stack`<br>
-`2026.09`
-</td>
-<td width="60%" valign="top">
-
-## [SPORTORY](https://github.com/Jenny5789/SPORTORY)<br>
-`Selenium` `PostgreSQL` `FastAPI` `React` `Gemini`<br>
 **데이터 수집 파이프라인 구축 · 웹 서비스 개발 및 배포**
 
-- ATP 선수 기록과 Biography 제공 웹 서비스 (Render, Vercel 배포)
-- Selenium + CDP 응답 수집, 원본 저장 → 정제 → UPSERT
-- 변경된 Biography만 Gemini 번역, Windows 작업 스케줄러 자동 수집
+- ATP 선수 기록 · Biography 웹 서비스 (Render, Vercel 배포)
+- Selenium + CDP 수집 → 정제 → UPSERT, 변경분만 Gemini 번역, 작업 스케줄러 자동 수집
 
 </td>
 </tr>
-</table>
-
-<br>
-
-<table width="100%">
+<tr><td colspan="3">&nbsp;</td></tr>
 <tr>
-<td width="40%" valign="top">
+<td width="49%" valign="top">
 
-<br>
-<a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/projects/hyrox.jpg" width="100%"></a>
+<a href="https://github.com/Jenny5789/hyrox-analysis"><img src="images/projects/hyrox.jpg" width="100%" alt="HYROX 기록 분석"></a>
 
-`Machine Learning`<br>
-`2026.10`
-</td>
-<td width="60%" valign="top">
+**[HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis)** <sub>&nbsp;Machine Learning · 2026.10</sub>
 
-## [HYROX 기록 분석](https://github.com/Jenny5789/hyrox-analysis)<br>
-`Pandas` `scikit-learn` `Matplotlib`<br>
+`Pandas` `scikit-learn` `Matplotlib` 
+
 **정형 데이터 분석 · 머신러닝 모델링 및 검증**
 
-- 대회 기록 9만 건 정형 데이터 ML 분석
-- K-Means 페이스 군집, 후반 기록 회귀 · 완주 등급 분류
+- 대회 기록 9만 건 ML 분석: K-Means 페이스 군집, 후반 기록 회귀 · 완주 등급 분류
 - 시즌 단위 분할, 데이터 누수 점검, 기준선 대비 검증
 
 </td>
-</tr>
-</table>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<br>
+<a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/projects/crop.jpg" width="100%" alt="작물 이미지 분류"></a>
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
+**[작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier)** <sub>&nbsp;Deep Learning · 2026.09</sub>
 
-<br>
-<a href="https://github.com/Jenny5789/cnn-crop-classifier"><img src="images/projects/crop.jpg" width="100%"></a>
+`PyTorch` `torchvision` `Docker` 
 
-`Deep Learning`<br>
-`2026.09`
-</td>
-<td width="60%" valign="top">
-
-## [작물 이미지 분류](https://github.com/Jenny5789/cnn-crop-classifier)<br>
-`PyTorch` `torchvision` `Docker`<br>
 **딥러닝 모델 구현 · 학습 및 성능 개선**
 
-- 작물 3종(고추·배추·오이) 분류 CNN 설계
-- 언더샘플링, 정규화, 데이터 증강, Early Stopping
-- Conv 블록 깊이 비교 실험, Test Acc 97.2%
+- 작물 3종(고추·배추·오이) 분류 CNN 설계, Test Acc 97.2%
+- 언더샘플링 · 정규화 · 증강 · Early Stopping, Conv 블록 깊이 비교 실험
 
 </td>
 </tr>
+<tr><td colspan="3">&nbsp;</td></tr>
 </table>
 
+<details>
+<summary><b>More Projects</b></summary>
 <br>
 
 <table width="100%">
 <tr>
-<td width="40%" valign="top">
+<td width="49%" valign="top">
 
-<br>
-<a href="https://github.com/Jenny5789/CourtVision"><img src="images/projects/courtvision.jpg" width="100%"></a>
+<a href="https://github.com/Jenny5789/CourtVision"><img src="images/projects/courtvision.jpg" width="100%" alt="CourtVision"></a>
 
-`Computer Vision`<br>
-`2026.09`
-</td>
-<td width="60%" valign="top">
+**[CourtVision](https://github.com/Jenny5789/CourtVision)** <sub>&nbsp;Computer Vision · 2026.09</sub>
 
-## [CourtVision](https://github.com/Jenny5789/CourtVision)<br>
-`YOLO11` `OpenCV` `OpenVINO` `FastAPI`<br>
+`YOLO11` `OpenCV` `OpenVINO` `FastAPI` 
+
 **컴퓨터 비전 기반 영상 분석 · 모델 경량화**
 
-- 테니스 영상 선수 추적 (YOLO11n · BoT-SORT)
-- Homography 코트 좌표 변환, 이동거리 · 속도 · 히트맵
-- INT8 양자화 (모델 68%↓ · 추론 1.7×), 대회 일정 크롤링
+- 테니스 영상 선수 추적 (YOLO11n · BoT-SORT), Homography 코트 좌표 변환
+- 이동거리 · 속도 · 히트맵, INT8 양자화 (모델 68%↓ · 추론 1.7×)
 
 </td>
-</tr>
-</table>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<br>
+<a href="https://github.com/Jenny5789/illegal-parking-detection"><img src="images/projects/parking.jpg" width="100%" alt="CCTV 불법주정차 탐지"></a>
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
+**[CCTV 불법주정차 탐지](https://github.com/Jenny5789/illegal-parking-detection)** <sub>&nbsp;Object Tracking · 2026.08</sub>
 
-<br>
-<a href="https://github.com/Jenny5789/illegal-parking-detection"><img src="images/projects/parking.jpg" width="100%"></a>
+`YOLOv8` `DeepSORT` `Streamlit` 
 
-`Object Tracking`<br>
-`2026.08`
-</td>
-<td width="60%" valign="top">
-
-## [CCTV 불법주정차 탐지](https://github.com/Jenny5789/illegal-parking-detection)<br>
-`YOLOv8` `DeepSORT` `Streamlit`<br>
 **컴퓨터 비전 기반 객체 탐지·추적 서비스 개발**
 
-- CCTV 불법주정차 자동 탐지 웹 앱
-- YOLOv8 탐지 + DeepSORT 추적, ROI 기반 정차 판정
+- CCTV 불법주정차 자동 탐지 웹 앱: YOLOv8 탐지 + DeepSORT 추적, ROI 기반 정차 판정
 - 가림 · 카메라 흔들림 · ID 스위칭 예외 로그 진단 · 개선
 
 </td>
 </tr>
-</table>
-
-<br>
-
-<table width="100%">
+<tr><td colspan="3">&nbsp;</td></tr>
 <tr>
-<td width="40%" valign="top">
+<td width="49%" valign="top">
 
-<br>
-<a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/projects/hangang.jpg" width="100%"></a>
+<a href="https://github.com/Jenny5789/hangang-water-quality"><img src="images/projects/hangang.jpg" width="100%" alt="한강 수질 분석"></a>
 
-`Data Analysis`<br>
-`2026.06`
-</td>
-<td width="60%" valign="top">
+**[한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality)** <sub>&nbsp;Data Analysis · 2026.06</sub>
 
-## [한강 수질 분석](https://github.com/Jenny5789/hangang-water-quality)<br>
-`Pandas` `Plotly` `Streamlit`<br>
+`Pandas` `Plotly` `Streamlit` 
+
 **공공 데이터 탐색적 분석 · 시각화 대시보드 구현**
 
-- 한강 5개 측정소 36개월 수질 EDA · 시계열 분석
-- 수질 등급(Ⅰ~Ⅴ) 기준 지점별 · 계절별 비교
+- 한강 5개 측정소 36개월 수질 EDA · 시계열 분석, 등급(Ⅰ~Ⅴ) 기준 지점별 · 계절별 비교
 - 하류 영양염(TN · TP) 누적, 지류(성내천) 최고 오염도 도출
 
 </td>
-</tr>
-</table>
+<td width="2%"></td>
+<td width="49%" valign="top">
 
-<br>
+<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="100%" alt="산책 ON"></a>
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
+**[산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel)** <sub>&nbsp;Web · Open API · 2026.06 · 3인 팀</sub>
 
-<br>
-<a href="https://github.com/Jenny5789/web/tree/main/korea_travel"><img src="images/projects/walk.jpg" width="100%"></a>
+`JavaScript` `Kakao Map API` `기상청 API` 
 
-`Web · Open API`<br>
-`2026.06 · 3인 팀`
-</td>
-<td width="60%" valign="top">
-
-## [산책 ON](https://github.com/Jenny5789/web/tree/main/korea_travel)<br>
-`JavaScript` `Kakao Map API` `기상청 API`<br>
 **Open API 연동 웹 서비스 개발**
 
-- 서울 · 제주 산책 코스 · 맛집 조건별 추천
-- 기상청 단기 · 중기예보 통합 7일 예보
+- 서울 · 제주 산책 코스 · 맛집 조건별 추천, 기상청 단기 · 중기예보 통합 7일 예보
 - 카카오맵 경로 표시, 거리 · 소요 시간 계산, 리뷰
 
 </td>
 </tr>
 </table>
+
+</details>
+
+---
+
+
+## 🧩 Mini Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/student_manager"><img src="images/mini/mini_student.jpg" width="100%" alt="Student Manager"></a>
+
+**[Student Manager](https://github.com/Jenny5789/student_manager)** <sub>&nbsp;2026.06</sub>
+
+`PyQt5` `SQLite` 
+
+- 학생 · 성적 관리 데스크톱 앱
+- 성적 일괄 저장 트랜잭션 · 롤백
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/DL_project/tree/main/flask/iris_knn_flask"><img src="images/mini/mini_iris.jpg" width="100%" alt="Iris KNN 품종 분류"></a>
+
+**[Iris KNN 품종 분류](https://github.com/Jenny5789/DL_project/tree/main/flask/iris_knn_flask)** <sub>&nbsp;2026.10</sub>
+
+`scikit-learn` `Flask` `Docker`
+
+- 붓꽃 측정값 4개로 품종 3종 분류 (KNN)
+- 입력값 기반 예측 · 품종별 이미지 출력
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/DL_project/tree/main/tensorflow/MNIST"><img src="images/mini/mini_mnist.jpg" width="100%" alt="MNIST 손글씨 숫자 인식"></a>
+
+**[MNIST 손글씨 숫자 인식](https://github.com/Jenny5789/DL_project/tree/main/tensorflow/MNIST)** <sub>&nbsp;2026.10</sub>
+
+`TensorFlow` `Keras` `Flask`
+
+- MNIST 6만 장 학습, Conv 2층 + Dense CNN 설계
+- 캔버스 입력 → 28×28 전처리 → 숫자 · 확률 출력
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More Mini Projects</b></summary>
+<br>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/python/tree/main/flet_projects"><img src="images/mini/mini_flet.jpg" width="100%" alt="Flet Projects"></a>
+
+**[Flet Projects](https://github.com/Jenny5789/python/tree/main/flet_projects)** <sub>&nbsp;2026.03</sub>
+
+`Python` `Flet` `SQLite`
+
+- 이벤트 · 상태 관리 · 클래스 · DB 연동 순서로 만든 데스크톱 앱 6종
+- UP-DOWN · 가위바위보 · 연락처 · 계산기 · 볼링 점수 · POS
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/photo-ai"><img src="images/mini/mini_photoai.jpg" width="100%" alt="AI Photo Studio"></a>
+
+**[AI Photo Studio](https://github.com/Jenny5789/photo-ai)** <sub>&nbsp;2026.05</sub>
+
+`Flask` `Replicate API` `Render`
+
+- 얼굴 사진 한 장으로 12가지 테마 AI 이미지 생성
+- PhotoMaker API 연동(생성 완료까지 폴링), Render 배포
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis"><img src="images/mini/mini_air.jpg" width="100%" alt="대기오염 분석"></a>
+
+**[대기오염 분석](https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis)** <sub>&nbsp;2026.06</sub>
+
+`pandas` `matplotlib` 
+
+- 에어코리아 시도별 PM2.5 비교
+- 엑셀 데이터 정제, 전국 평균 대비 시각화
+
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/engineering_calculator"><img src="images/mini/mini_calc.jpg" width="100%" alt="Engineering Calculator"></a>
+
+**[Engineering Calculator](https://github.com/Jenny5789/engineering_calculator)** <sub>&nbsp;2026.06</sub>
+
+`Python` `Flet` 
+
+- 공학용 계산기
+- 수식 전처리, 허용 함수 제한 eval
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/DFS-algorithm-maze"><img src="images/mini/mini_dfs.jpg" width="100%" alt="DFS Maze"></a>
+
+**[DFS Maze](https://github.com/Jenny5789/DFS-algorithm-maze)** <sub>&nbsp;2026.06</sub>
+
+`Python` `Flet` 
+
+- 스택 ADT 구현
+- DFS 탐색 단계별 시각화
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/card_quiz"><img src="images/mini/mini_cardquiz.jpg" width="100%" alt="Card Quiz"></a>
+
+**[Card Quiz](https://github.com/Jenny5789/card_quiz)** <sub>&nbsp;2026.06</sub>
+
+`Flutter` `Dart` 
+
+- 플래시카드 단어장 학습 앱
+- 줄 편집기 CRUD 응용, 오답 복습
+
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/todo_list"><img src="images/mini/mini_todo.jpg" width="100%" alt="To-Do List"></a>
+
+**[To-Do List](https://github.com/Jenny5789/todo_list)** <sub>&nbsp;2026.06</sub>
+
+`JavaScript` `localStorage` 
+
+- 그룹형 할 일 · 메모 관리 웹 앱
+- localStorage 영속화, 상태 필터
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/Jenny5789/promptframe-studio"><img src="images/mini/mini_promptframe.jpg" width="100%" alt="Prompt Frame Studio"></a>
+
+**[Prompt Frame Studio](https://github.com/Jenny5789/promptframe-studio)** <sub>&nbsp;2026.11</sub>
+
+`Flask` `Docker` `ComfyUI`
+
+- 프롬프트 입력 기반 이미지 생성 웹 앱 (Flux 2)
+- Flask 컨테이너 ↔ ComfyUI 서버 API 연동
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
@@ -275,7 +339,7 @@
 
 | 과목 | 내용 |
 |---|---|
-| <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">&nbsp;&nbsp;&nbsp;**[Python](https://github.com/Jenny5789/python)** | 이론 노트 · 자료구조 구현 · Flet GUI 앱 · 코딩테스트 |
+| <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">&nbsp;&nbsp;&nbsp;**[Python](https://github.com/Jenny5789/python)** | 이론 노트 · 자료구조 구현 · 코딩테스트 |
 | <img src="https://cdn.simpleicons.org/pandas/3F8FD2" width="22" height="22" alt="Data Analysis">&nbsp;&nbsp;&nbsp;**[Data Analysis](https://github.com/Jenny5789/Data_Analysis_Study)** | NumPy · Pandas 공식 문서 기반 실습 |
 | <img src="https://cdn.simpleicons.org/pytorch" width="22" height="22" alt="Deep Learning">&nbsp;&nbsp;&nbsp;**[Deep Learning](https://github.com/Jenny5789/DL_project)** | 딥러닝 · 머신러닝 이론 · Flask · Docker 실습 |
 | <img src="https://cdn.simpleicons.org/opencv" width="22" height="22" alt="Computer Vision">&nbsp;&nbsp;&nbsp;**[Computer Vision](https://github.com/Jenny5789/computer-vision-basics)** | OpenCV 특징점 매칭 · 객체 인식 |
@@ -284,107 +348,3 @@
 | <img src="https://cdn.simpleicons.org/cplusplus" width="22" height="22" alt="C++">&nbsp;&nbsp;&nbsp;**[C++](https://github.com/Jenny5789/cpp-study)** | C++ 기초 문법 · 연습문제 |
 | <img src="https://cdn.simpleicons.org/linux" width="22" height="22" alt="Linux">&nbsp;&nbsp;&nbsp;**[Linux](https://github.com/Jenny5789/Total-TIL/tree/main/Linux)** | Linux 기본 명령어 · VI 에디터 실습 |
 
----
-
-<br>
-
-<a id="mini-projects"></a>
-<details>
-<summary><b>🧩 Mini Projects</b></summary>
-<br>
-
-<table width="100%">
-<tr>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/student_manager"><img src="images/mini/mini_student.jpg" width="340" height="191" alt="Student Manager"></a>
-
-## [Student Manager](https://github.com/Jenny5789/student_manager)
-
-`PyQt5` `SQLite`
-
-- 학생 · 성적 관리 데스크톱 앱
-- 성적 일괄 저장 트랜잭션 · 롤백
-
-</td>
-<td width="6%" valign="top" align="center"><img src="images/vline.svg" width="2" height="320" alt=""></td>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/todo_list"><img src="images/mini/mini_todo.jpg" width="340" height="191" alt="To-Do List"></a>
-
-## [To-Do List](https://github.com/Jenny5789/todo_list)
-
-`JavaScript` `localStorage`
-
-- 그룹형 할 일 · 메모 관리 웹 앱
-- localStorage 영속화, 상태 필터
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/card_quiz"><img src="images/mini/mini_cardquiz.jpg" width="340" height="191" alt="Card Quiz"></a>
-
-## [Card Quiz](https://github.com/Jenny5789/card_quiz)
-
-`Flutter` `Dart`
-
-- 플래시카드 단어장 학습 앱
-- 줄 편집기 CRUD 응용, 오답 복습
-
-</td>
-<td width="6%" valign="top" align="center"><img src="images/vline.svg" width="2" height="320" alt=""></td>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/DFS-algorithm-maze"><img src="images/mini/mini_dfs.jpg" width="340" height="191" alt="DFS Maze"></a>
-
-## [DFS Maze](https://github.com/Jenny5789/DFS-algorithm-maze)
-
-`Python` `Flet`
-
-- 스택 ADT 직접 구현
-- DFS 탐색 단계별 시각화
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/engineering_calculator"><img src="images/mini/mini_calc.jpg" width="340" height="191" alt="Engineering Calculator"></a>
-
-## [Engineering Calculator](https://github.com/Jenny5789/engineering_calculator)
-
-`Python` `Flet`
-
-- 공학용 계산기
-- 수식 전처리, 허용 함수 제한 eval
-
-</td>
-<td width="6%" valign="top" align="center"><img src="images/vline.svg" width="2" height="320" alt=""></td>
-<td width="47%" valign="top">
-
-<a href="https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis"><img src="images/mini/mini_air.jpg" width="340" height="191" alt="대기오염 분석"></a>
-
-## [대기오염 분석](https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis)
-
-`pandas` `matplotlib`
-
-- 에어코리아 시도별 PM2.5 비교
-- 엑셀 데이터 정제, 전국 평균 대비 시각화
-
-</td>
-</tr>
-</table>
-
-</details>
