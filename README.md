@@ -13,19 +13,19 @@
 <table width="100%">
 <tr><td colspan="2"><img src="images/spacer.svg" width="100%" height="1" alt=""></td></tr>
 <tr>
-<td width="50%" valign="top"><b>Languages</b><br><img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SQL-2b5a8a?style=flat&logoColor=white" alt="SQL" title="SQL" height="24">&nbsp; <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openjdk" alt="Java" title="Java" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css/8F5FE0" alt="CSS3" title="CSS3" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/dart" alt="Dart" title="Dart" height="28">&nbsp;&nbsp;</td>
-<td width="50%" valign="top"><b>AI &amp; ML</b><br><img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ultralytics/6A7BE0" alt="YOLO" title="YOLO" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" title="OpenCV" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/keras" alt="Keras" title="Keras" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mediapipe" alt="MediaPipe" title="MediaPipe" height="28">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Languages</b><br><img src="images/stack/python.svg" height="28" alt="Python" title="Python">&nbsp; <img src="images/stack/sql.svg" height="28" alt="SQL" title="SQL">&nbsp; <img src="images/stack/javascript.svg" height="28" alt="JavaScript" title="JavaScript">&nbsp; <img src="images/stack/java.svg" height="28" alt="Java" title="Java">&nbsp; <img src="images/stack/cpp.svg" height="28" alt="C++" title="C++">&nbsp; <img src="images/stack/html5.svg" height="28" alt="HTML5" title="HTML5">&nbsp; <img src="images/stack/css3.svg" height="28" alt="CSS3" title="CSS3">&nbsp; <img src="images/stack/dart.svg" height="28" alt="Dart" title="Dart"></td>
+<td width="50%" valign="top"><b>AI &amp; ML</b><br><img src="images/stack/pytorch.svg" height="28" alt="PyTorch" title="PyTorch">&nbsp; <img src="images/stack/scikit-learn.svg" height="28" alt="scikit-learn" title="scikit-learn">&nbsp; <img src="images/stack/yolo.svg" height="28" alt="YOLO" title="YOLO">&nbsp; <img src="images/stack/opencv.svg" height="28" alt="OpenCV" title="OpenCV">&nbsp; <img src="images/stack/tensorflow.svg" height="28" alt="TensorFlow" title="TensorFlow">&nbsp; <img src="images/stack/keras.svg" height="28" alt="Keras" title="Keras">&nbsp; <img src="images/stack/hugging-face.svg" height="28" alt="Hugging Face" title="Hugging Face">&nbsp; <img src="images/stack/mediapipe.svg" height="28" alt="MediaPipe" title="MediaPipe"></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>Data</b><br><img src="https://cdn.simpleicons.org/pandas/7F63C4" alt="Pandas" title="Pandas" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/plotly/7589D1" alt="Plotly" title="Plotly" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-2b5a8a?style=flat&logoColor=white" alt="Matplotlib" title="Matplotlib" height="24">&nbsp; <img src="https://img.shields.io/badge/Seaborn-2b5a8a?style=flat&logoColor=white" alt="Seaborn" title="Seaborn" height="24">&nbsp; <img src="https://img.shields.io/badge/BeautifulSoup-2b5a8a?style=flat&logoColor=white" alt="BeautifulSoup" title="BeautifulSoup" height="24">&nbsp; </td>
-<td width="50%" valign="top"><b>Backend &amp; DB</b><br><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/6E7681" alt="Flask" title="Flask" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spring" alt="Spring MVC" title="Spring MVC" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apachetomcat" alt="Apache Tomcat" title="Apache Tomcat" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MyBatis-2b5a8a?style=flat&logoColor=white" alt="MyBatis" title="MyBatis" height="24">&nbsp; <img src="https://img.shields.io/badge/Servlet_JSP-2b5a8a?style=flat&logoColor=white" alt="Servlet·JSP" title="Servlet·JSP" height="24">&nbsp; <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlalchemy" alt="SQLAlchemy" title="SQLAlchemy" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/0F80CC" alt="SQLite" title="SQLite" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="28">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Data</b><br><img src="images/stack/pandas.svg" height="28" alt="Pandas" title="Pandas">&nbsp; <img src="images/stack/numpy.svg" height="28" alt="NumPy" title="NumPy">&nbsp; <img src="images/stack/plotly.svg" height="28" alt="Plotly" title="Plotly">&nbsp; <img src="images/stack/streamlit.svg" height="28" alt="Streamlit" title="Streamlit">&nbsp; <img src="images/stack/selenium.svg" height="28" alt="Selenium" title="Selenium">&nbsp; <img src="images/stack/matplotlib.svg" height="28" alt="Matplotlib" title="Matplotlib">&nbsp; <img src="images/stack/seaborn.svg" height="28" alt="Seaborn" title="Seaborn">&nbsp; <img src="images/stack/beautifulsoup.svg" height="28" alt="BeautifulSoup" title="BeautifulSoup"></td>
+<td width="50%" valign="top"><b>Backend &amp; DB</b><br><img src="images/stack/fastapi.svg" height="28" alt="FastAPI" title="FastAPI">&nbsp; <img src="images/stack/flask.svg" height="28" alt="Flask" title="Flask">&nbsp; <img src="images/stack/nodejs.svg" height="28" alt="Node.js" title="Node.js">&nbsp; <img src="images/stack/spring-mvc.svg" height="28" alt="Spring MVC" title="Spring MVC">&nbsp; <img src="images/stack/apache-tomcat.svg" height="28" alt="Apache Tomcat" title="Apache Tomcat">&nbsp; <img src="images/stack/mybatis.svg" height="28" alt="MyBatis" title="MyBatis">&nbsp; <img src="images/stack/servlet-jsp.svg" height="28" alt="Servlet&#183;JSP" title="Servlet&#183;JSP">&nbsp; <img src="images/stack/postgresql.svg" height="28" alt="PostgreSQL" title="PostgreSQL">&nbsp; <img src="images/stack/mysql.svg" height="28" alt="MySQL" title="MySQL">&nbsp; <img src="images/stack/sqlalchemy.svg" height="28" alt="SQLAlchemy" title="SQLAlchemy">&nbsp; <img src="images/stack/sqlite.svg" height="28" alt="SQLite" title="SQLite">&nbsp; <img src="images/stack/supabase.svg" height="28" alt="Supabase" title="Supabase"></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><b>Frontend &amp; App</b><br><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flutter/54C5F8" alt="Flutter" title="Flutter" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/qt" alt="PyQt5" title="PyQt5" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flet-2b5a8a?style=flat&logoColor=white" alt="Flet" title="Flet" height="24">&nbsp; </td>
-<td width="50%" valign="top"><b>Deployment</b><br><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vercel/6E7681" alt="Vercel" title="Vercel" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/render" alt="Render" title="Render" height="28">&nbsp;&nbsp;</td>
+<td width="50%" valign="top"><b>Frontend &amp; App</b><br><img src="images/stack/react.svg" height="28" alt="React" title="React">&nbsp; <img src="images/stack/vite.svg" height="28" alt="Vite" title="Vite">&nbsp; <img src="images/stack/flutter.svg" height="28" alt="Flutter" title="Flutter">&nbsp; <img src="images/stack/pyqt5.svg" height="28" alt="PyQt5" title="PyQt5">&nbsp; <img src="images/stack/flet.svg" height="28" alt="Flet" title="Flet"></td>
+<td width="50%" valign="top"><b>Deployment</b><br><img src="images/stack/docker.svg" height="28" alt="Docker" title="Docker">&nbsp; <img src="images/stack/vercel.svg" height="28" alt="Vercel" title="Vercel">&nbsp; <img src="images/stack/render.svg" height="28" alt="Render" title="Render"></td>
 </tr>
 <tr>
-<td colspan="2" valign="top"><b>Tools</b><br><img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/6E7681" alt="GitHub" title="GitHub" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/anaconda" alt="Anaconda" title="Anaconda" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" title="Google Colab" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/notion/6E7681" alt="Notion" title="Notion" height="28">&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/eclipseide/7B6FD8" alt="Eclipse" title="Eclipse" height="28">&nbsp;&nbsp;<img src="https://img.shields.io/badge/VS_Code-2b5a8a?style=flat&logoColor=white" alt="VS Code" title="VS Code" height="24">&nbsp; <img src="https://img.shields.io/badge/ChatGPT-2b5a8a?style=flat&logoColor=white" alt="ChatGPT" title="ChatGPT" height="24">&nbsp; </td>
+<td colspan="2" valign="top"><b>Tools</b><br><img src="images/stack/git.svg" height="28" alt="Git" title="Git">&nbsp; <img src="images/stack/github.svg" height="28" alt="GitHub" title="GitHub">&nbsp; <img src="images/stack/github-actions.svg" height="28" alt="GitHub Actions" title="GitHub Actions">&nbsp; <img src="images/stack/jupyter.svg" height="28" alt="Jupyter" title="Jupyter">&nbsp; <img src="images/stack/anaconda.svg" height="28" alt="Anaconda" title="Anaconda">&nbsp; <img src="images/stack/linux.svg" height="28" alt="Linux" title="Linux">&nbsp; <img src="images/stack/google-colab.svg" height="28" alt="Google Colab" title="Google Colab">&nbsp; <img src="images/stack/claude.svg" height="28" alt="Claude" title="Claude">&nbsp; <img src="images/stack/notion.svg" height="28" alt="Notion" title="Notion">&nbsp; <img src="images/stack/eclipse.svg" height="28" alt="Eclipse" title="Eclipse">&nbsp; <img src="images/stack/vs-code.svg" height="28" alt="VS Code" title="VS Code">&nbsp; <img src="images/stack/chatgpt.svg" height="28" alt="ChatGPT" title="ChatGPT"></td>
 </tr>
 </table>
 
@@ -39,14 +39,15 @@
 
 <a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/projects/moa.jpg" width="100%" alt="CGI_MOA"></a>
 
-**[CGI_MOA](https://github.com/Jenny5789/CGI_MOA)** <sub>&nbsp;Image Generation · 2026.10 · 4인 팀 (팀장)</sub>
+**[CGI_MOA](https://github.com/Jenny5789/CGI_MOA)** <sub>&nbsp;Image Generation · 2026.09 ~ 2026.11 (8주) · 4인 팀 (팀장)</sub>
 
 `SAM2` `AnyDoor` `PyTorch` `FastAPI` `React` 
 
-**생성형 AI 기반 서비스 개발 · AI 모델 서빙 및 백엔드 구축**
+**사용자 제공 배경과 객체의 합성 이미지 생성 구현 (생성형 AI · 모델 서빙)**
 
-- 가상 피팅 웹 서비스: SAM2 상의 분할 → AnyDoor 착용 합성
-- 백엔드–AI 연동, 비동기 작업 큐, 토큰 인증
+- 상의 착용 모습을 미리 보여 주는 가상 피팅 웹 서비스
+- 사진 두 장 입력 → 영역 지정(SAM2) → 합성(AnyDoor) → 원본 복원
+- 담당: 총괄 · 백엔드 · DB 설계 · 이미지 처리 파이프라인
 
 </td>
 <td width="2%"></td>
@@ -58,11 +59,11 @@
 
 `Selenium` `PostgreSQL` `FastAPI` `React` `Gemini` 
 
-**데이터 수집 파이프라인 구축 · 웹 서비스 개발 및 배포**
+**웹 데이터 수집 · 정제 파이프라인과 웹 서비스 구현 · 배포**
 
-- ATP 선수 기록 · Biography 웹 서비스 (Render, Vercel 배포)
-- Selenium + CDP 수집 → 정제 → UPSERT
-- 변경분만 Gemini 번역, 작업 스케줄러 자동 수집
+- ATP 선수 기록과 Biography를 제공하는 웹 서비스
+- 브라우저 자동화로 수집, 정제 후 DB에 저장, 정기 자동 실행
+- 원문이 바뀐 Biography만 Gemini로 영한 번역
 
 </td>
 </tr>
@@ -76,9 +77,10 @@
 
 `Pandas` `scikit-learn` `Matplotlib` 
 
-**정형 데이터 분석 · 머신러닝 모델링 및 검증**
+**정형 데이터 분석과 머신러닝 모델링 · 검증**
 
-- 대회 기록 9만 건 K-Means 군집 · 회귀 · 분류
+- 대회 기록 9만 건 전처리와 탐색적 분석
+- K-Means 군집, 후반 기록 회귀, 완주 등급 분류
 - 시즌 단위 분할, 데이터 누수 점검, 기준선 대비 검증
 
 </td>
@@ -91,10 +93,11 @@
 
 `PyTorch` `torchvision` `Docker` 
 
-**딥러닝 모델 구현 · 학습 및 성능 개선**
+**이미지 분류 딥러닝 모델 구현**
 
-- 작물 3종(고추·배추·오이) 분류 CNN 설계, Test Acc 97.2%
-- 언더샘플링 · 증강 · Early Stopping, Conv 깊이 비교
+- 작물 3종(고추·배추·오이)을 분류하는 CNN 구현
+- 언더샘플링, 정규화, 증강, Early Stopping 적용
+- Conv 블록 깊이를 바꿔 비교한 실험
 
 </td>
 </tr>
@@ -115,11 +118,11 @@
 
 `YOLO11` `OpenCV` `OpenVINO` `FastAPI` 
 
-**컴퓨터 비전 기반 영상 분석 · 모델 경량화**
+**영상 기반 객체 추적 · 분석과 모델 경량화 구현 (컴퓨터 비전)**
 
-- 테니스 선수 추적 (YOLO11n · BoT-SORT)
-- Homography 코트 변환, 이동거리 · 속도 · 히트맵
-- INT8 양자화 (모델 68%↓ · 추론 1.7×)
+- 테니스 경기 영상 선수 추적 (YOLO11n, BoT-SORT)
+- 영상 좌표를 코트 위치로 바꿔 이동거리 · 속도 · 히트맵 산출
+- INT8 양자화로 모델 경량화
 
 </td>
 <td width="2%"></td>
@@ -131,10 +134,11 @@
 
 `YOLOv8` `DeepSORT` `Streamlit` 
 
-**컴퓨터 비전 기반 객체 탐지·추적 서비스 개발**
+**영상 객체 탐지 · 추적 서비스 구현 (컴퓨터 비전)**
 
-- CCTV 불법주정차 탐지 웹 앱 (YOLOv8 + DeepSORT)
-- ROI 정차 판정, 가림 · 흔들림 · ID 스위칭 예외 진단
+- CCTV 영상에서 불법주정차를 자동 탐지하는 웹 앱
+- 차량 탐지 · 추적 후 지정 구역(ROI)에서 정차 판정
+- 가림, 카메라 흔들림 등 예외 상황을 로그로 진단 · 개선
 
 </td>
 </tr>
@@ -148,10 +152,11 @@
 
 `Pandas` `Plotly` `Streamlit` 
 
-**공공 데이터 탐색적 분석 · 시각화 대시보드 구현**
+**공공 데이터 분석과 시각화 대시보드 구현**
 
-- 5개 측정소 36개월 수질 EDA · 시계열 분석
-- 등급 기준 지점별 · 계절별 비교, 하류 영양염 누적
+- 한강 5개 측정소 36개월 수질 EDA · 시계열 분석
+- 수질 등급 기준으로 지점별 · 계절별 비교
+- 하류에 영양염(TN · TP) 누적 확인
 
 </td>
 <td width="2%"></td>
@@ -163,10 +168,11 @@
 
 `JavaScript` `Kakao Map API` `기상청 API` 
 
-**Open API 연동 웹 서비스 개발**
+**Open API 연동 웹 서비스 구현**
 
-- 서울 · 제주 산책 코스 · 맛집 조건별 추천
-- 기상청 7일 예보 · 카카오맵 경로 · 거리 계산
+- 서울 · 제주 산책 코스와 맛집을 조건별로 추천
+- 기상청 단기 · 중기예보를 합친 7일 예보
+- 카카오맵 경로 표시, 거리 · 소요 시간 계산
 
 </td>
 </tr>
@@ -189,8 +195,10 @@
 
 `PyQt5` `SQLite` 
 
-- 학생 · 성적 관리 데스크톱 앱
-- 성적 일괄 저장 트랜잭션 · 롤백
+**DB 연동 데스크톱 앱 구현**
+
+- 학생 · 성적을 관리하는 데스크톱 앱
+- 성적 일괄 저장을 트랜잭션으로 처리, 롤백
 
 </td>
 <td width="33%" valign="top">
@@ -201,8 +209,10 @@
 
 `scikit-learn` `Flask` `Docker`
 
-- 붓꽃 측정값 4개로 품종 3종 분류 (KNN)
-- 입력값 기반 예측 · 품종별 이미지 출력
+**머신러닝 분류 모델 웹 서비스 구현**
+
+- 붓꽃 측정값 4개로 품종 3종을 분류하는 KNN 웹 앱
+- 입력값으로 예측하고 품종별 이미지 출력
 
 </td>
 <td width="33%" valign="top">
@@ -213,8 +223,11 @@
 
 `TensorFlow` `Keras` `Flask`
 
-- MNIST 6만 장 학습, Conv 2층 + Dense CNN 설계
-- 캔버스 입력 → 28×28 전처리 → 숫자 · 확률 출력
+**딥러닝 이미지 인식 웹 서비스 구현**
+
+- 캔버스에 그린 손글씨 숫자를 인식하는 CNN 웹 앱
+- MNIST 6만 장 학습, Conv 2층 + Dense 구조
+- 입력을 28×28로 전처리한 뒤 숫자 · 확률 출력
 
 </td>
 </tr>
@@ -234,8 +247,11 @@
 
 `Python` `Flet` `SQLite`
 
-- 이벤트 · 상태 관리 · 클래스 · DB 연동 순서로 만든 데스크톱 앱 6종
-- UP-DOWN · 가위바위보 · 연락처 · 계산기 · 볼링 점수 · POS
+**데스크톱 앱 구현**
+
+- Flet으로 만든 데스크톱 앱 6종
+- UP-DOWN, 가위바위보, 연락처, 계산기, 볼링, POS
+- 이벤트 → 상태 관리 → 클래스 → DB 연동 순으로 학습
 
 </td>
 <td width="33%" valign="top">
@@ -246,8 +262,11 @@
 
 `Flask` `Replicate API` `Render`
 
-- 얼굴 사진 한 장으로 12가지 테마 AI 이미지 생성
-- PhotoMaker API 연동(생성 완료까지 폴링), Render 배포
+**AI 이미지 변환 웹 서비스 구현 (생성형 AI API 연동)**
+
+- 얼굴 사진을 12가지 테마의 AI 이미지로 변환하는 웹 서비스
+- 외부 AI API(PhotoMaker) 호출, 생성 완료까지 상태 확인
+- Render에 배포해 운영
 
 </td>
 <td width="33%" valign="top">
@@ -257,6 +276,8 @@
 **[대기오염 분석](https://github.com/Jenny5789/Data_Analysis_Study/tree/main/pandas/korea_air_quality_analysis)** <sub>&nbsp;2026.06</sub>
 
 `pandas` `matplotlib` 
+
+**공공 데이터 비교 분석과 시각화**
 
 - 에어코리아 시도별 PM2.5 비교
 - 엑셀 데이터 정제, 전국 평균 대비 시각화
@@ -273,8 +294,10 @@
 
 `Python` `Flet` 
 
-- 공학용 계산기
-- 수식 전처리, 허용 함수 제한 eval
+**Python 기본기를 활용한 GUI 계산기 구현**
+
+- Flet GUI 공학용 계산기
+- 정규식으로 수식 전처리, 허용한 함수만 계산
 
 </td>
 <td width="33%" valign="top">
@@ -285,8 +308,10 @@
 
 `Python` `Flet` 
 
-- 스택 ADT 구현
-- DFS 탐색 단계별 시각화
+**자료구조 · 알고리즘 구현과 시각화**
+
+- DFS로 미로 탐색 경로를 단계별로 시각화
+- 스택 자료구조 구현
 
 </td>
 <td width="33%" valign="top">
@@ -297,8 +322,10 @@
 
 `Flutter` `Dart` 
 
-- 플래시카드 단어장 학습 앱
-- 줄 편집기 CRUD 응용, 오답 복습
+**모바일 학습 앱 구현**
+
+- 단어장을 플래시카드로 학습하는 Flutter 앱
+- Provider 상태관리, CRUD, 오답 복습
 
 </td>
 </tr>
@@ -312,8 +339,10 @@
 
 `JavaScript` `localStorage` 
 
-- 그룹형 할 일 · 메모 관리 웹 앱
-- localStorage 영속화, 상태 필터
+**프론트엔드 웹 앱 구현**
+
+- 그룹별 할 일 · 메모를 관리하는 웹 앱
+- localStorage에 저장, 상태별 필터
 
 </td>
 <td width="33%" valign="top">
@@ -324,8 +353,10 @@
 
 `Flask` `Docker` `ComfyUI`
 
-- 프롬프트 입력 기반 이미지 생성 웹 앱 (Flux 2)
-- Flask 컨테이너 ↔ ComfyUI 서버 API 연동
+**프롬프트 기반 이미지 생성 웹 앱과 AI 서버 연동 구현 (생성형 AI)**
+
+- 프롬프트와 제외어로 이미지를 생성하는 웹 앱 (Flux 2)
+- Flask 컨테이너가 ComfyUI 서버에 워크플로를 API로 전달
 
 </td>
 </tr>
